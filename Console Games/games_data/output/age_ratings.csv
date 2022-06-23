@@ -1,0 +1,5 @@
+AgeRatingId,AgeRatingName,AgeRatingDescription
+1,Rated G,General audiences – All ages admitted.
+2,Rated PG,Parental guidance suggested – Some material may not be suitable for pre-teenagers.
+3,Rated R,Restricted – Under 17 requires accompanying parent or adult guardian.
+4,Rated X,No one under 17 admitted.

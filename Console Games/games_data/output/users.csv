@@ -1,0 +1,2152 @@
+UID,FirstName,LastName,GamerTag,City,Age,GamerScore,State
+15,Eric,Piatkowski,eripia,Chicago,44,67,Illinois
+42,Monty,Williams,monwil,Philadelphia,39,25,Pennsylvania
+43,Chris,Whitney,chrwhi,Washington,19,60,District of Columbia
+56,Gary,Payton,garpay,Miami,24,40,Florida
+57,Doug,Christie,douchr,Dallas,23,67,Texas
+63,Michael,Smith,micsmi,Indiana,43,0,Pennsylvania
+72,Kenny,Anderson,kenand,Indiana,21,38,Pennsylvania
+77,Doug,Overton,douove,Los Angeles,16,25,California
+87,Dikembe,Mutombo,dikmut,Houston,33,25,Texas
+89,Nick,Van,nicvan,San Antonio,30,100,Texas
+93,Hubert,Davis,hubdav,Detroit,39,0,Michigan
+103,Todd,Day,todday,Detroit,31,25,Michigan
+109,Robert,Horry,robhor,San Antonio,22,29,Texas
+120,Steven,Smith,stesmi,Charlotte,20,57,North Carolina
+124,Vlade,Divac,vladiv,Sacramento,14,25,California
+133,David,Wesley,davwes,New Orleans,38,38,Louisiana
+145,Tracy,Murray,tramur,Portland,41,0,Oregon
+147,Jalen,Rose,jalros,Toronto,15,50,Ohio
+178,Olden,Polynice,oldpol,Los Angeles,14,0,California
+185,Chris,Webber,chrweb,Philadelphia,37,37,Pennsylvania
+208,Sam,Cassell,samcas,Los Angeles,31,46,California
+213,Antonio,Davis,antdav,Toronto,36,0,Ohio
+221,Clar.,Weatherspoon,clawea,Houston,20,62,Texas
+224,Eddie,Jones,eddjon,Miami,20,40,Florida
+238,Tyrone,Hill,tyrhil,Miami,22,0,Florida
+239,Darrick,Martin,darmar,Toronto,32,71,Ohio
+243,Aaron,McKie,aarmck,Los Angeles,30,40,California
+244,Dee,Brown,deebro,Dallas,14,100,Texas
+248,George,Lynch,geolyn,New Orleans,24,60,Louisiana
+252,Karl,Malone,karmal,Los Angeles,21,70,California
+255,Grant,Hill,grahil,Orlando,30,36,Florida
+258,Brian,Grant,brigra,Miami,22,80,Florida
+270,Horace,Grant,horgra,Los Angeles,32,50,California
+275,Allan,Houston,allhou,New York,26,30,New York
+278,Stacey,Augmon,staaug,Orlando,28,56,Florida
+281,Scott,Williams,scowil,Dallas,39,100,Texas
+283,Lindsey,Hunter,linhun,Chicago,21,25,Illinois
+292,Anthony,Miller,antmil,Atlanta,27,0,Georgia
+296,Rick,Fox,ricfox,Los Angeles,29,60,California
+297,Alonzo,Mourning,alomou,Miami,14,80,Florida
+299,Glenn,Robinson,glerob,Philadelphia,40,41,Pennsylvania
+324,Anthony,Peeler,antpee,Washington,32,0,District of Columbia
+339,Tom,Gugliotta,tomgug,Atlanta,14,60,Georgia
+344,Dana,Barros,danbar,Boston,31,67,Massachusetts
+348,Mitchell,Butler,mitbut,Washington,26,40,District of Columbia
+349,Mark,Jackson,marjac,Houston,36,50,Texas
+353,Darrell,Armstrong,dararm,Dallas,18,33,Texas
+358,Anfernee,Hardaway,anfhar,New York,35,40,New York
+363,Christian,Laettner,chrlae,Washington,24,75,District of Columbia
+369,Charlie,Ward,chawar,New York,13,30,New York
+383,Kendall,Gill,kengil,Milwaukee,28,38,Wisconsin
+389,Toni,Kukoc,tonkuk,Milwaukee,29,43,Wisconsin
+393,Rod,Strickland,rodstr,Orlando,38,20,Florida
+397,Reggie,Miller,regmil,Indiana,15,29,Pennsylvania
+399,Sean,Rooks,searoo,New Orleans,13,50,Louisiana
+406,Shaquille,O'Neal,shao'n,Cleveland,43,46,Ohio
+436,Juwan,Howard,juwhow,Miami,43,33,Florida
+445,Wesley,Person,wesper,Portland,44,100,Oregon
+448,Bo,Outlaw,boout,Memphis,37,83,Tennessee
+452,Vin,Baker,vinbak,New York,29,50,New York
+458,Howard,Eisley,howeis,New York,22,0,New York
+468,Jon,Barry,jonbar,Denver,34,38,Colorado
+469,Jamal,Mashburn,jammas,New Orleans,29,47,Louisiana
+673,Alan,Henderson,alahen,Philadelphia,25,57,Pennsylvania
+677,Eric,Williams,eriwil,Cleveland,15,11,Ohio
+680,John,Amaechi,johama,Houston,42,60,Texas
+682,Bob,Sura,bobsur,Detroit,21,25,Michigan
+686,Antonio,McDyess,antmcd,San Antonio,27,75,Texas
+688,Michael,Curry,miccur,Toronto,29,0,Ohio
+689,Theo,Ratliff,therat,Atlanta,15,33,Georgia
+692,Andrew,DeClercq,anddec,Orlando,20,0,Florida
+693,Joe,Smith,joesmi,Chicago,35,50,Illinois
+699,Brent,Barry,brebar,San Antonio,25,42,Texas
+702,Voshon,Lenard,voslen,Denver,33,33,Colorado
+703,Kurt,Thomas,kurtho,San Antonio,44,0,Texas
+711,Jerry,Stackhouse,jersta,Dallas,22,12,Texas
+713,Chris,Carr,chrcar,Cleveland,17,12,Ohio
+714,Michael,Finley,micfin,Dallas,26,38,Texas
+722,Corliss,Williamson,corwil,Sacramento,43,43,California
+724,Cory,Alexander,corale,Charlotte,15,20,North Carolina
+727,Eric,Snow,erisno,Philadelphia,17,17,Pennsylvania
+739,Rasheed,Wallace,raswal,Detroit,40,53,Michigan
+754,Jim,Jackson,jimjac,Phoenix,43,56,Arizona
+757,Damon,Stoudamire,damsto,Portland,41,27,Oregon
+762,Shawn,Bradley,shabra,Dallas,34,50,Texas
+763,Tony,Massenburg,tonmas,San Antonio,37,60,Texas
+779,Glen,Rice,gleric,Los Angeles,34,0,California
+788,Kevin,Willis,kevwil,Atlanta,15,60,Georgia
+813,Bernie,Bickerstaff,berbic,Charlotte,18,0,North Carolina
+891,Charles,Oakley,chaoak,Houston,25,50,Texas
+902,Bimbo,Coles,bimcol,Miami,17,50,Florida
+905,Dale,Davis,daldav,Portland,19,50,Oregon
+916,Corie,Blount,corblo,Chicago,40,50,Illinois
+923,Donyell,Marshall,donmar,Cleveland,22,57,Ohio
+924,Anthony,Goldwire,antgol,Detroit,42,67,Michigan
+934,Derrick,Coleman,dercol,Philadelphia,22,67,Pennsylvania
+935,Bryon,Russell,bryrus,Los Angeles,27,80,California
+937,Scottie,Pippen,scopip,Chicago,29,50,Illinois
+947,Allen,Iverson,allive,Philadelphia,35,43,Pennsylvania
+948,Marcus,Camby,marcam,Denver,25,62,Colorado
+949,Shareef,Abdur-Rahim,shaabd,Atlanta,37,43,Georgia
+950,Stephon,Marbury,stemar,New York,28,23,New York
+951,Ray,Allen,rayall,Boston,16,88,Massachusetts
+952,Antoine,Walker,antwal,Boston,42,57,Massachusetts
+953,Lorenzen,Wright,lorwri,Memphis,26,46,Tennessee
+955,Samaki,Walker,samwal,Washington,35,33,District of Columbia
+958,Vitaly,Potapenko,vitpot,Seattle,30,60,Washington
+959,Steve,Nash,stenas,Dallas,34,38,Texas
+960,Tony,Delk,tondel,Atlanta,35,55,Georgia
+961,John,Wallace,johwal,Miami,17,75,Florida
+962,Walter,McCarty,walmcc,Phoenix,40,33,Arizona
+965,Derek,Fisher,derfis,Los Angeles,19,29,California
+966,Jerome,Williams,jerwil,New York,42,100,New York
+969,Travis,Knight,trakni,New York,23,0,New York
+970,Othella,Harrington,othhar,Chicago,42,30,Illinois
+974,Joseph,Blair,josbla,Chicago,28,0,Illinois
+977,Kobe,Bryant,kobbry,Los Angeles,27,36,California
+978,Peja,Stojakovic,pejsto,Sacramento,15,47,California
+979,Jermaine,O'Neal,jero'n,Indiana,40,36,Pennsylvania
+980,Zydrunas,Ilgauskas,zydilg,Miami,16,0,Florida
+983,Moochie,Norris,moonor,New York,14,0,New York
+987,Jason,Sasser,jassas,Dallas,44,83,Texas
+990,Malik,Rose,malros,New York,35,50,New York
+998,Mark,Pope,marpop,Denver,13,100,Colorado
+1000,Shandon,Anderson,shaand,Miami,38,40,Florida
+1032,Darvin,Ham,darham,Detroit,27,40,Michigan
+1038,Juaquin,Hawkins,juahaw,Milwaukee,24,20,Wisconsin
+1043,Amal,McCaskill,amamcc,Philadelphia,18,67,Pennsylvania
+1049,Shane,Heal,shahea,San Antonio,23,0,Texas
+1065,Erick,Strickland,eristr,Milwaukee,14,100,Wisconsin
+1088,Chucky,Atkins,chuatk,Los Angeles,30,42,California
+1110,Mark,Strickland,marstr,Atlanta,38,0,Georgia
+1112,Ben,Wallace,benwal,Cleveland,19,83,Ohio
+1165,Luis,Grillo,luigri,Orlando,17,0,Florida
+1185,Violet,Palmer,viopal,Memphis,33,0,Tennessee
+1297,Jeff,Van,jefvan,Houston,25,0,Texas
+1442,Zeljko,Rebraca,zelreb,Los Angeles,37,80,California
+1444,Lawrence,Funderburke,lawfun,Sacramento,22,0,California
+1477,Bruce,Bowen,brubow,San Antonio,38,43,Texas
+1495,Tim,Duncan,timdun,San Antonio,27,65,Texas
+1496,Keith,Van,keivan,Milwaukee,27,100,Wisconsin
+1497,Chauncey,Billups,chabil,Detroit,16,42,Michigan
+1498,Antonio,Daniels,antdan,Seattle,28,50,Washington
+1499,Tony,Battie,tonbat,Orlando,17,17,Florida
+1501,Tim,Thomas,timtho,Los Angeles,21,47,California
+1502,Adonal,Foyle,adofoy,Orlando,27,100,Florida
+1503,Tracy,McGrady,tramcg,Houston,35,0,Texas
+1504,Danny,Fortson,danfor,Seattle,19,33,Washington
+1505,Tariq,Abdul-Wahad,tarabd,Dallas,34,20,Texas
+1506,Austin,Croshere,auscro,Dallas,44,17,Texas
+1507,Derek,Anderson,derand,Charlotte,36,71,North Carolina
+1508,Maurice,Taylor,mautay,New York,27,33,New York
+1509,Kelvin,Cato,kelcat,Houston,18,22,Texas
+1513,Scot,Pollard,scopol,Indiana,28,50,Pennsylvania
+1515,Anthony,Parker,antpar,Toronto,27,55,Ohio
+1517,Bobby,Jackson,bobjac,New Orleans,27,25,Louisiana
+1520,Charles,Smith,chasmi,Portland,43,50,Oregon
+1531,Marc,Jackson,marjac,Philadelphia,33,25,Pennsylvania
+1533,Anthony,Johnson,antjoh,Indiana,42,22,Pennsylvania
+1536,Stephen,Jackson,stejac,Atlanta,17,32,Georgia
+1541,Alvin,Williams,alvwil,Toronto,37,33,Ohio
+1542,Predrag,Drobnjak,predro,Atlanta,40,0,Georgia
+1544,Chris,Crawford,chrcra,Atlanta,33,45,Georgia
+1548,Mark,Blount,marblo,Boston,35,30,Massachusetts
+1559,Adrian,Griffin,adrgri,Dallas,36,25,Texas
+1563,Kevin,Ollie,kevoll,Cleveland,14,33,Ohio
+1565,Michael,Stewart,micste,Boston,15,100,Massachusetts
+1585,Brandon,Williams,brawil,Milwaukee,23,33,Wisconsin
+1594,Rick,Brunson,ricbru,Los Angeles,36,38,California
+1636,Ike,Nwankwo,ikenwa,Los Angeles,32,0,California
+1654,Scott,Skiles,scoski,Chicago,40,0,Illinois
+1709,Michael,Olowokandi,micolo,Boston,29,0,Massachusetts
+1710,Mike,Bibby,mikbib,Sacramento,32,56,California
+1711,Raef,LaFrentz,raelaf,Portland,33,67,Oregon
+1712,Antawn,Jamison,antjam,Washington,15,59,District of Columbia
+1714,Robert,Traylor,robtra,New Orleans,21,33,Louisiana
+1715,Jason,Williams,jaswil,Memphis,33,29,Tennessee
+1716,Larry,Hughes,larhug,Cleveland,39,38,Ohio
+1717,Dirk,Nowitzki,dirnow,Dallas,43,30,Texas
+1719,Bonzi,Wells,bonwel,Memphis,37,40,Tennessee
+1720,Michael,Doleac,micdol,New York,34,58,New York
+1724,Bryce,Drew,brydre,New Orleans,17,33,Louisiana
+1725,Rasho,Nesterovic,rasnes,Indiana,22,46,Pennsylvania
+1727,Pat,Garrity,patgar,Orlando,31,25,Florida
+1729,Ricky,Davis,ricdav,Boston,36,55,Massachusetts
+1730,Brian,Skinner,briski,Sacramento,33,67,California
+1731,Tyronn,Lue,tyrlue,Orlando,44,14,Florida
+1732,Felipe,Lopez,fellop,Orlando,41,25,Florida
+1733,Al,Harrington,alhar,Indiana,28,56,Pennsylvania
+1735,Vladimir,Stepania,vlaste,Portland,40,0,Oregon
+1737,Nazr,Mohammed,nazmoh,Detroit,34,50,Michigan
+1738,Ansu,Sesay,ansses,Seattle,36,67,Washington
+1739,Ruben,Patterson,rubpat,Denver,18,57,Colorado
+1740,Rashard,Lewis,raslew,Seattle,34,46,Washington
+1741,Jelani,McCoy,jelmcc,Atlanta,17,0,Georgia
+1742,Shammond,Williams,shawil,Orlando,18,38,Florida
+1743,Bruno,Sundov,brusun,Cleveland,27,0,Ohio
+1744,Jerome,James,jerjam,Seattle,31,100,Washington
+1747,Rafer,Alston,rafals,Miami,24,38,Florida
+1749,Cuttino,Mobley,cutmob,Houston,16,36,Texas
+1751,Jahidi,White,jahwhi,Charlotte,15,0,North Carolina
+1752,Sean,Marks,seamar,Phoenix,41,55,Arizona
+1760,Derrick,Dial,derdia,Orlando,43,50,Florida
+1761,Greg,Buckner,grebuc,Dallas,33,73,Texas
+1762,Tremaine,Fowlkes,trefow,Los Angeles,34,50,California
+1763,Ryan,Bowen,ryabow,Houston,30,17,Texas
+1765,Torraye,Braggs,torbra,Houston,14,50,Texas
+1766,Maceo,Baston,macbas,Indiana,19,100,Pennsylvania
+1800,Damon,Jones,damjon,Miami,31,75,Florida
+1802,Brad,Miller,bramil,Sacramento,14,40,California
+1844,Fred,Vinson,frevin,Los Angeles,19,50,California
+1853,Anthony,Carter,antcar,Denver,38,80,Colorado
+1863,Earl,Boykins,earboy,Denver,22,75,Colorado
+1882,Elton,Brand,eltbra,Los Angeles,43,50,California
+1883,Steve,Francis,stefra,Orlando,19,20,Florida
+1885,Lamar,Odom,lamodo,Los Angeles,38,88,California
+1886,Jonathan,Bender,jonben,Indiana,13,100,Pennsylvania
+1888,Richard,Hamilton,richam,Detroit,25,46,Michigan
+1889,Andre,Miller,andmil,Portland,40,36,Oregon
+1890,Shawn,Marion,shamar,Cleveland,34,25,Ohio
+1891,Jason,Terry,jaster,Dallas,18,41,Texas
+1892,Trajan,Langdon,tralan,Los Angeles,37,100,California
+1894,Corey,Maggette,cormag,Los Angeles,40,27,California
+1897,Metta,World,metwor,Sacramento,19,20,California
+1899,James,Posey,jampos,Indiana,18,20,Pennsylvania
+1901,Dion,Glover,dioglo,San Antonio,20,0,Texas
+1902,Jeff,Foster,jeffos,Indiana,44,0,Pennsylvania
+1903,Kenny,Thomas,kentho,Philadelphia,26,56,Pennsylvania
+1904,Devean,George,devgeo,Los Angeles,35,0,California
+1908,Jumaine,Jones,jumjon,Phoenix,35,56,Arizona
+1910,Leon,Smith,leosmi,Seattle,39,50,Washington
+1916,Calvin,Booth,calboo,Seattle,13,100,Washington
+1917,Wang,Zhi-zhi,wanzhi,Miami,18,67,Florida
+1918,Obinna,Ekezie,obieke,Atlanta,20,29,Georgia
+1919,Laron,Profit,larpro,Washington,40,40,District of Columbia
+1921,Gordan,Giricek,gorgir,Orlando,24,29,Florida
+1922,Francisco,Elson,fraels,Denver,33,33,Colorado
+1924,Lee,Nailon,leenai,Atlanta,22,43,Georgia
+1929,Galen,Young,galyou,Seattle,28,33,Washington
+1938,Manu,Ginobili,mangin,San Antonio,34,38,Texas
+1944,Eddie,Robinson,eddrob,Chicago,26,50,Illinois
+1956,Ira,Newble,iranew,Cleveland,29,47,Ohio
+1960,Milt,Palacio,milpal,Toronto,44,29,Ohio
+1967,Derek,Hood,derhoo,Dallas,44,0,Texas
+1969,Peter,Cornell,petcor,Houston,20,80,Texas
+1983,Jermaine,Jackson,jerjac,New York,28,50,New York
+1985,Zendon,Hamilton,zenham,Philadelphia,20,67,Pennsylvania
+2030,Kenyon,Martin,kenmar,Denver,23,44,Colorado
+2031,Stromile,Swift,strswi,Memphis,23,33,Tennessee
+2032,Darius,Miles,darmil,Memphis,21,67,Tennessee
+2033,Marcus,Fizer,marfiz,Milwaukee,26,100,Wisconsin
+2034,Mike,Miller,mikmil,Memphis,13,50,Tennessee
+2035,DerMarr,Johnson,derjoh,Denver,33,25,Colorado
+2036,Chris,Mihm,chrmih,Boston,33,62,Massachusetts
+2037,Jamal,Crawford,jamcra,New York,33,42,New York
+2038,Joel,Przybilla,joeprz,Portland,33,62,Oregon
+2039,Keyon,Dooling,keydoo,Orlando,18,67,Florida
+2040,Jerome,Moiso,jermoi,Toronto,39,20,Ohio
+2041,Etan,Thomas,etatho,Washington,36,0,District of Columbia
+2042,Courtney,Alexander,couale,New Orleans,32,36,Louisiana
+2043,Mateen,Cleaves,matcle,Seattle,44,100,Washington
+2044,Jason,Collier,jascol,Atlanta,34,75,Georgia
+2045,Hedo,Turkoglu,hedtur,Orlando,15,27,Florida
+2046,Desmond,Mason,desmas,Milwaukee,42,42,Wisconsin
+2047,Quentin,Richardson,queric,Phoenix,21,33,Arizona
+2048,Jamaal,Magloire,jammag,Milwaukee,34,43,Wisconsin
+2049,Speedy,Claxton,specla,Atlanta,37,0,Georgia
+2050,Morris,Peterson,morpet,Oklahoma City,23,46,Oklahoma
+2051,Donnell,Harvey,donhar,Orlando,22,43,Florida
+2054,Jake,Tsakalidis,jaktsa,Memphis,31,33,Tennessee
+2056,Primoz,Brezec,pribre,Charlotte,31,0,North Carolina
+2059,Eduardo,Najera,edunaj,Charlotte,39,40,North Carolina
+2062,A.J.,Guyton,a.jguy,Detroit,42,0,Michigan
+2063,Jake,Voskuhl,jakvos,Toronto,35,50,Ohio
+2067,Eddie,House,eddhou,Phoenix,41,38,Arizona
+2072,Michael,Redd,micred,Phoenix,23,38,Arizona
+2079,Kaniel,Dickens,kandic,Dallas,30,0,Texas
+2091,Daniel,Santiago,dansan,Milwaukee,18,75,Wisconsin
+2098,Slava,Medvedenko,slamed,Los Angeles,15,60,California
+2109,Eddie,Gill,eddgil,Indiana,13,43,Pennsylvania
+2111,Jimmie,Hunter,jimhun,Indiana,39,50,Pennsylvania
+2135,Nick,Sheppard,nicshe,Phoenix,35,100,Arizona
+2136,Jameel,Watkins,jamwat,Charlotte,28,0,North Carolina
+2137,Ime,Udoka,imeudo,San Antonio,34,20,Texas
+2148,Mark,Ayotte,marayo,Memphis,21,0,Tennessee
+2198,Kwame,Brown,kwabro,Washington,25,9,District of Columbia
+2199,Tyson,Chandler,tyscha,Chicago,18,80,Illinois
+2200,Pau,Gasol,paugas,Los Angeles,18,36,California
+2201,Eddy,Curry,eddcur,Chicago,24,75,Illinois
+2202,Jason,Richardson,jasric,Philadelphia,14,54,Pennsylvania
+2203,Shane,Battier,shabat,Memphis,26,36,Tennessee
+2205,DeSagana,Diop,desdio,Dallas,39,50,Texas
+2207,Joe,Johnson,joejoh,Brooklyn,34,50,New York
+2208,Kedrick,Brown,kedbro,Boston,18,75,Massachusetts
+2209,Vladimir,Radmanovic,vlarad,Los Angeles,31,12,California
+2210,Richard,Jefferson,ricjef,San Antonio,41,33,Texas
+2212,Steven,Hunter,stehun,Memphis,41,100,Tennessee
+2214,Michael,Bradley,micbra,Philadelphia,26,33,Pennsylvania
+2215,Jason,Collins,jascol,Washington,15,0,District of Columbia
+2216,Zach,Randolph,zacran,Portland,23,50,Oregon
+2217,Brendan,Haywood,brehay,Dallas,16,50,Texas
+2222,Gerald,Wallace,gerwal,Charlotte,35,60,North Carolina
+2223,Samuel,Dalembert,samdal,Dallas,25,67,Texas
+2224,Jamaal,Tinsley,jamtin,Indiana,19,42,Pennsylvania
+2225,Tony,Parker,tonpar,San Antonio,24,65,Texas
+2226,Will,Solomon,wilsol,Sacramento,17,20,California
+2228,Alton,Ford,altfor,Houston,39,100,Texas
+2229,Mike,James,mikjam,Houston,26,25,Texas
+2230,Maurice,Evans,maueva,Los Angeles,27,58,California
+2239,Trenton,Hassell,trehas,Dallas,15,33,Texas
+2240,Gilbert,Arenas,gilare,Washington,32,27,District of Columbia
+2241,Omar,Cook,omacoo,Portland,34,100,Oregon
+2242,Terence,Morris,termor,Orlando,23,50,Florida
+2243,Brian,Scalabrine,brisca,Chicago,43,50,Illinois
+2244,Jeff,Trepagnier,jeftre,Denver,34,50,Colorado
+2245,Damone,Brown,dambro,Indiana,44,33,Pennsylvania
+2248,Earl,Watson,earwat,Memphis,40,0,Tennessee
+2249,Jamison,Brewer,jambre,Indiana,14,0,Pennsylvania
+2250,Bobby,Simmons,bobsim,Los Angeles,34,44,California
+2251,Eric,Chenowith,eriche,Denver,13,0,Colorado
+2254,Loren,Woods,lorwoo,Toronto,22,43,Ohio
+2256,Ken,Johnson,kenjoh,Orlando,30,0,Florida
+2257,Ruben,Boumtje-Boumtje,rubbou,Orlando,40,100,Florida
+2271,Robb,Dryden,robdry,Philadelphia,18,0,Pennsylvania
+2294,Charlie,Bell,chabel,Milwaukee,19,50,Wisconsin
+2306,Carlos,Arroyo,cararr,Detroit,41,38,Michigan
+2343,Joe,Crispin,joecri,Miami,34,0,Florida
+2347,Tang,Hamilton,tanham,Detroit,32,50,Michigan
+2357,Tierre,Brown,tiebro,Los Angeles,37,25,California
+2365,Chris,Andersen,chrand,Miami,37,33,Florida
+2366,Mike,Wilks,mikwil,Cleveland,33,0,Ohio
+2367,Geno,Carlisle,gencar,Portland,17,0,Oregon
+2370,Mengke,Bateer,menbat,Toronto,18,0,Ohio
+2386,Kimani,Ffriend,kimffr,Los Angeles,34,100,California
+2397,Yao,Ming,yaomin,Houston,29,33,Texas
+2399,Mike,Dunleavy,mikdun,Milwaukee,29,71,Wisconsin
+2400,Drew,Gooden,dregoo,Cleveland,39,75,Ohio
+2402,Dajuan,Wagner,dajwag,Cleveland,29,0,Ohio
+2403,Nene,,nenen,Denver,28,100,Colorado
+2404,Chris,Wilcox,chrwil,Los Angeles,18,56,California
+2405,Amar'e,Stoudemire,amasto,Phoenix,32,42,Arizona
+2406,Caron,Butler,carbut,Los Angeles,30,17,California
+2407,Jared,Jeffries,jarjef,Washington,42,50,District of Columbia
+2408,Melvin,Ely,melely,New Orleans,14,40,Louisiana
+2409,Marcus,Haislip,marhai,San Antonio,19,33,Texas
+2410,Fred,Jones,frejon,Toronto,25,86,Ohio
+2411,Bostjan,Nachbar,bosnac,Houston,38,67,Texas
+2412,Jiri,Welsch,jirwel,Cleveland,13,0,Ohio
+2413,Juan,Dixon,juadix,Atlanta,34,40,Georgia
+2414,Curtis,Borchardt,curbor,Boston,37,0,Massachusetts
+2415,Ryan,Humphrey,ryahum,Memphis,37,0,Tennessee
+2416,Kareem,Rush,karrus,Indiana,29,46,Pennsylvania
+2417,Qyntel,Woods,qynwoo,New York,16,57,New York
+2418,Casey,Jacobsen,casjac,Phoenix,16,67,Arizona
+2419,Tayshaun,Prince,taypri,Detroit,40,69,Michigan
+2421,Frank,Williams,frawil,New York,38,25,New York
+2422,John,Salmons,johsal,Philadelphia,41,42,Pennsylvania
+2423,Chris,Jefferies,chrjef,Chicago,38,0,Illinois
+2424,Dan,Dickau,dandic,New Orleans,19,33,Louisiana
+2425,Robert,Archibald,robarc,Phoenix,44,0,Arizona
+2427,Roger,Mason,rogmas,San Antonio,14,30,Texas
+2429,Dan,Gadzuric,dangad,Milwaukee,44,100,Wisconsin
+2431,David,Andersen,davand,Houston,26,60,Texas
+2434,Juan,Carlos,juacar,Memphis,33,36,Tennessee
+2435,Mario,Kasun,markas,Orlando,39,50,Florida
+2436,Flip,Murray,flimur,Cleveland,28,33,Ohio
+2437,Lonny,Baxter,lonbax,Houston,44,0,Texas
+2438,Jason,Jennings,jasjen,Portland,31,0,Oregon
+2439,Sam,Clancy,samcla,Portland,18,100,Oregon
+2441,Jamal,Sampson,jamsam,Dallas,34,100,Texas
+2443,Darius,Songaila,darson,Washington,39,29,District of Columbia
+2446,Rasual,Butler,rasbut,Los Angeles,30,38,California
+2449,Luis,Scola,luisco,Houston,19,47,Texas
+2450,Randy,Holcomb,ranhol,Chicago,20,50,Illinois
+2451,Corsley,Edwards,coredw,New Orleans,31,25,Louisiana
+2452,J.R.,Bremer,j.rbre,Cleveland,24,86,Ohio
+2454,Junior,Harrington,junhar,New Orleans,40,69,Louisiana
+2456,Cezary,Trybanski,ceztry,Phoenix,32,0,Arizona
+2466,Maurice,Carter,maucar,New Orleans,20,100,Louisiana
+2469,Pat,Burke,patbur,Phoenix,37,50,Arizona
+2470,Smush,Parker,smupar,Los Angeles,16,56,California
+2486,Maurice,Baker,maubak,Los Angeles,43,0,California
+2501,Reggie,Evans,regeva,Seattle,43,50,Washington
+2544,LeBron,James,lebjam,Miami,44,64,Florida
+2545,Darko,Milicic,darmil,Memphis,32,33,Tennessee
+2546,Carmelo,Anthony,carant,New York,44,53,New York
+2547,Chris,Bosh,chrbos,Miami,21,47,Florida
+2548,Dwyane,Wade,dwywad,Miami,42,60,Florida
+2549,Chris,Kaman,chrkam,Los Angeles,22,47,California
+2550,Kirk,Hinrich,kirhin,Chicago,17,27,Illinois
+2551,T.J.,Ford,t.jfor,Indiana,18,22,Pennsylvania
+2552,Michael,Sweetney,micswe,New York,34,0,New York
+2554,Mickael,Pietrus,micpie,Boston,35,33,Massachusetts
+2555,Nick,Collison,niccol,Seattle,42,50,Washington
+2558,Reece,Gaines,reegai,Milwaukee,15,33,Wisconsin
+2559,Troy,Bell,trobel,Memphis,43,50,Tennessee
+2561,David,West,davwes,New Orleans,31,53,Louisiana
+2562,Sasha,Pavlovic,saspav,Cleveland,15,50,Ohio
+2563,Dahntay,Jones,dahjon,Dallas,24,100,Texas
+2564,Boris,Diaw,bordia,San Antonio,35,46,Texas
+2567,Brian,Cook,bricoo,Los Angeles,35,54,California
+2568,Carlos,Delfino,cardel,Milwaukee,29,44,Wisconsin
+2569,Ndudi,Ebi,nduebi,Dallas,18,33,Texas
+2570,Kendrick,Perkins,kenper,Boston,39,38,Massachusetts
+2571,Leandro,Barbosa,leabar,Toronto,24,67,Ohio
+2572,Josh,Howard,joshow,Dallas,27,67,Texas
+2573,Maciej,Lampe,maclam,Phoenix,28,67,Arizona
+2574,Jason,Kapono,jaskap,Los Angeles,29,0,California
+2575,Luke,Walton,lukwal,Los Angeles,26,36,California
+2580,Travis,Hansen,trahan,Atlanta,27,0,Georgia
+2581,Steve,Blake,stebla,Detroit,36,50,Michigan
+2582,Slavko,Vranes,slavra,Portland,14,0,Oregon
+2584,Willie,Green,wilgre,Philadelphia,38,17,Pennsylvania
+2585,Zaza,Pachulia,zazpac,Dallas,22,57,Texas
+2586,Keith,Bogans,keibog,Chicago,32,43,Illinois
+2587,Malick,Badiane,malbad,Memphis,41,0,Tennessee
+2588,Matt,Bonner,matbon,San Antonio,26,46,Texas
+2590,Mo,Williams,mowil,Cleveland,41,35,Ohio
+2591,James,Lang,jamlan,Washington,32,0,District of Columbia
+2592,James,Jones,jamjon,Miami,32,33,Florida
+2594,Kyle,Korver,kylkor,Philadelphia,34,21,Pennsylvania
+2596,Tommy,Smith,tomsmi,Chicago,32,50,Illinois
+2599,Brandon,Hunter,brahun,Orlando,17,50,Florida
+2601,Andreas,Glyniadakis,andgly,Atlanta,29,100,Georgia
+2602,Jerome,Beasley,jerbea,Miami,36,50,Florida
+2604,Theron,Smith,thesmi,Charlotte,13,67,North Carolina
+2605,Marquis,Daniels,mardan,Dallas,27,80,Texas
+2606,Carl,English,careng,Indiana,17,0,Pennsylvania
+2617,Udonis,Haslem,udohas,Miami,37,20,Florida
+2618,Marcus,Hatten,marhat,Denver,29,0,Colorado
+2624,Quinton,Ross,quiros,Los Angeles,29,57,California
+2629,Jon,Stefansson,jonste,Dallas,35,14,Texas
+2632,Kirk,Penney,kirpen,Los Angeles,20,0,California
+2636,Justin,Hamilton,jusham,Detroit,18,0,Michigan
+2637,Alex,Scales,alesca,San Antonio,16,0,Texas
+2639,Britton,Johnsen,brijoh,New Orleans,37,0,Louisiana
+2644,Rick,Apodaca,ricapo,Orlando,13,0,Florida
+2646,Kris,Lang,krilan,San Antonio,23,100,Texas
+2648,Ronald,Dupree,rondup,Cleveland,13,50,Ohio
+2652,Shelton,Jones,shejon,Memphis,25,50,Tennessee
+2657,Yuta,Tabuse,yuttab,Los Angeles,42,0,California
+2660,Richard,Jeter,ricjet,Memphis,23,0,Tennessee
+2667,Desmond,Penigar,despen,Orlando,36,67,Florida
+2668,Josh,Davis,josdav,Philadelphia,34,38,Pennsylvania
+2669,Linton,Johnson,linjoh,Charlotte,15,0,North Carolina
+2672,Ronald,Blackshear,ronbla,New York,31,0,New York
+2679,Matt,Carroll,matcar,Charlotte,27,100,North Carolina
+2682,Alex,Garcia,alegar,New Orleans,32,60,Louisiana
+2683,David,Jackson,davjac,Portland,44,25,Oregon
+2684,Melvin,Sanders,melsan,San Antonio,36,100,Texas
+2688,Brandin,Knight,brakni,Houston,13,0,Texas
+2696,Lynn,Greer,lyngre,Milwaukee,16,56,Wisconsin
+2697,Antonio,Meeking,antmee,Charlotte,39,60,North Carolina
+2724,Desmond,Ferguson,desfer,Portland,26,25,Oregon
+2730,Dwight,Howard,dwihow,Los Angeles,28,67,California
+2731,Emeka,Okafor,emeoka,New Orleans,35,29,Louisiana
+2732,Ben,Gordon,bengor,Charlotte,39,31,North Carolina
+2733,Shaun,Livingston,shaliv,Charlotte,26,50,North Carolina
+2734,Devin,Harris,devhar,Dallas,19,75,Texas
+2735,Josh,Childress,joschi,Phoenix,29,40,Arizona
+2736,Luol,Deng,luoden,Chicago,26,88,Illinois
+2738,Andre,Iguodala,andigu,Philadelphia,33,14,Pennsylvania
+2739,Luke,Jackson,lukjac,Los Angeles,25,0,California
+2741,Robert,Swift,robswi,Seattle,34,50,Washington
+2742,Sebastian,Telfair,sebtel,Portland,15,50,Oregon
+2744,Al,Jefferson,aljef,Boston,37,56,Massachusetts
+2745,Kirk,Snyder,kirsny,Houston,19,50,Texas
+2746,Josh,Smith,jossmi,Atlanta,14,53,Georgia
+2747,JR,Smith,jrsmi,New Orleans,39,56,Louisiana
+2749,Jameer,Nelson,jamnel,Detroit,40,0,Michigan
+2750,Pavel,Podkolzin,pavpod,Dallas,13,0,Texas
+2751,Viktor,Khryapa,vikkhr,Chicago,21,0,Illinois
+2752,Sergei,Monia,sermon,Sacramento,24,0,California
+2753,Delonte,West,delwes,Cleveland,30,57,Ohio
+2754,Tony,Allen,tonall,Memphis,31,38,Tennessee
+2755,Kevin,Martin,kevmar,Houston,27,56,Texas
+2757,Beno,Udrih,benudr,New York,15,71,New York
+2758,David,Harrison,davhar,Indiana,17,67,Pennsylvania
+2761,Jackson,Vroman,jacvro,New Orleans,16,50,Louisiana
+2762,Peter,John,petjoh,Washington,22,0,District of Columbia
+2763,Lionel,Chalmers,liocha,Los Angeles,32,0,California
+2764,Donta,Smith,donsmi,Atlanta,15,100,Georgia
+2766,Antonio,Burks,antbur,Memphis,40,43,Tennessee
+2767,Royal,Ivey,royive,Milwaukee,35,46,Wisconsin
+2768,Chris,Duhon,chrduh,Chicago,35,17,Illinois
+2772,Trevor,Ariza,treari,Houston,24,29,Texas
+2773,Tim,Pickett,timpic,New Orleans,24,0,Louisiana
+2774,Bernard,Robinson,berrob,Charlotte,34,57,North Carolina
+2775,Ha,Ha,haha,Portland,36,0,Oregon
+2776,Pape,Sow,papsow,Toronto,39,0,Ohio
+2777,Ricky,Minard,ricmin,Sacramento,17,29,California
+2779,Vassilis,Spanoulis,vasspa,Houston,43,50,Texas
+2781,Romain,Sato,romsat,San Antonio,14,25,Texas
+2782,Matt,Freije,matfre,New Orleans,37,30,Louisiana
+2787,Rashad,Wright,raswri,Indiana,38,33,Pennsylvania
+2788,DJ,Mbenga,djmbe,New Orleans,22,60,Louisiana
+2798,Horace,Jenkins,horjen,Detroit,23,0,Michigan
+2800,Tony,Bobbitt,tonbob,Los Angeles,28,43,California
+2802,David,Bluthenthal,davblu,Sacramento,14,0,California
+2804,Andres,Nocioni,andnoc,Chicago,14,57,Illinois
+2808,Nate,Johnson,natjoh,Los Angeles,13,0,California
+2809,Gerald,Fitch,gerfit,Miami,40,29,Florida
+2810,Andre,Brown,andbro,Memphis,17,38,Tennessee
+2822,Rich,Melzer,ricmel,San Antonio,39,67,Texas
+2823,John,Edwards,johedw,Atlanta,13,67,Georgia
+2824,Desmon,Farmer,desfar,San Antonio,14,50,Texas
+2825,Ibrahim,Kutluay,ibrkut,Seattle,13,33,Washington
+2826,Nate,Williams,natwil,New Orleans,13,25,Louisiana
+2827,Darius,Rice,darric,Cleveland,13,0,Ohio
+2832,Neil,Yanke,neiyan,Los Angeles,31,0,California
+2833,Nigel,Dixon,nigdix,Denver,43,0,Colorado
+2835,David,Hawkins,davhaw,Houston,32,0,Texas
+2839,James,Thomas,jamtho,Portland,28,100,Oregon
+2841,Steven,Barber,stebar,New York,17,33,New York
+2845,Erik,Daniels,eridan,Sacramento,44,0,California
+2847,Adam,Parada,adapar,Sacramento,43,0,California
+2849,Tony,Bland,tonbla,Sacramento,21,0,California
+2850,Anwar,Ferguson,anwfer,Sacramento,24,0,California
+2852,Awvee,Storey,awvsto,Washington,13,0,District of Columbia
+2853,Earl,Barron,earbar,Phoenix,27,100,Arizona
+2854,Ajani,Williams,ajawil,Atlanta,29,0,Georgia
+2855,Marque,Perry,marper,San Antonio,27,25,Texas
+2857,Andre,Barrett,andbar,New York,30,0,New York
+2859,Jerry,Dupree,jerdup,Los Angeles,28,0,California
+2863,Damien,Wilkins,damwil,Oklahoma City,40,25,Oklahoma
+2865,Arthur,Johnson,artjoh,Denver,23,69,Colorado
+2866,Jackie,Butler,jacbut,New York,25,33,New York
+2867,Kasib,Powell,kaspow,Miami,34,20,Florida
+2876,Jared,Reiner,jarrei,Chicago,22,0,Illinois
+2891,Mark,Jones,marjon,Orlando,35,50,Florida
+100686,Michaela,Pavlickova,micpav,Cleveland,44,31,Ohio
+100729,Michelle,Snow,micsno,Cleveland,31,100,Ohio
+101106,Andrew,Bogut,andbog,Milwaukee,37,46,Wisconsin
+101107,Marvin,Williams,marwil,Atlanta,23,38,Georgia
+101110,Martell,Webster,marweb,Portland,15,69,Oregon
+101111,Charlie,Villanueva,chavil,Milwaukee,39,50,Wisconsin
+101112,Channing,Frye,chafry,Phoenix,28,43,Arizona
+101113,Ike,Diogu,ikedio,Indiana,16,75,Pennsylvania
+101114,Deron,Williams,derwil,Brooklyn,23,31,New York
+101115,Andrew,Bynum,andbyn,Los Angeles,36,69,California
+101117,Yaroslav,Korolev,yarkor,Los Angeles,35,38,California
+101118,Sean,May,seamay,Charlotte,41,80,North Carolina
+101120,Antoine,Wright,antwri,Dallas,33,40,Texas
+101121,Joey,Graham,joegra,Toronto,32,75,Ohio
+101122,Danny,Granger,dangra,Miami,35,70,Florida
+101123,Gerald,Green,gergre,Boston,23,55,Massachusetts
+101124,Hakim,Warrick,hakwar,Phoenix,22,100,Arizona
+101126,Nate,Robinson,natrob,New York,15,53,New York
+101128,Francisco,Garcia,fragar,Houston,27,56,Texas
+101129,Luther,Head,luthea,Indiana,26,60,Pennsylvania
+101131,Jason,Maxiell,jasmax,Detroit,39,60,Michigan
+101132,Linas,Kleiza,linkle,Denver,25,29,Colorado
+101133,Ian,Mahinmi,ianmah,Indiana,40,56,Pennsylvania
+101134,Wayne,Simien,waysim,Miami,16,50,Florida
+101135,David,Lee,davlee,New York,14,60,New York
+101136,Salim,Stoudamire,salsto,Atlanta,14,0,Georgia
+101137,Daniel,Ewing,danewi,Los Angeles,29,50,California
+101138,Brandon,Bass,brabas,Boston,25,38,Massachusetts
+101139,CJ,Miles,cjmil,Indiana,13,28,Pennsylvania
+101141,Ersan,Ilyasova,ersily,Atlanta,43,60,Georgia
+101142,Ronny,Turiaf,rontur,Los Angeles,25,67,California
+101143,Travis,Diener,tradie,Indiana,13,50,Pennsylvania
+101144,Von,Wafer,vonwaf,Los Angeles,37,100,California
+101145,Monta,Ellis,monell,Indiana,31,0,Pennsylvania
+101146,Roko,Ukic,rokuki,Toronto,25,29,Ohio
+101149,Martynas,Andriuskevicius,marand,Chicago,42,0,Illinois
+101150,Lou,Williams,louwil,Philadelphia,19,31,Pennsylvania
+101154,Andray,Blatche,andbla,Washington,32,42,District of Columbia
+101158,Orien,Greene,origre,Boston,20,50,Massachusetts
+101159,Dijon,Thompson,dijtho,Phoenix,18,0,Arizona
+101160,Lawrence,Roberts,lawrob,Memphis,40,100,Tennessee
+101161,Amir,Johnson,amijoh,Toronto,30,100,Ohio
+101162,Marcin,Gortat,margor,Phoenix,28,62,Arizona
+101165,Alex,Acker,aleack,Los Angeles,26,67,California
+101166,Uros,Slokar,uroslo,Toronto,33,70,Ohio
+101177,Fabricio,Oberto,fabobe,San Antonio,15,29,Texas
+101179,Ronnie,Price,ronpri,Sacramento,35,17,California
+101180,Sarunas,Jasikevicius,sarjas,Indiana,36,17,Pennsylvania
+101181,Jose,Calderon,joscal,New York,41,78,New York
+101182,Donell,Taylor,dontay,Washington,40,0,District of Columbia
+101183,Shavlik,Randolph,sharan,Philadelphia,36,38,Pennsylvania
+101184,Deng,Gai,dengai,Philadelphia,25,0,Pennsylvania
+101185,Rawle,Marshall,rawmar,Dallas,22,50,Texas
+101186,Lucas,Tischer,luctis,Phoenix,17,0,Arizona
+101187,Alan,Anderson,alaand,Toronto,43,20,Ohio
+101188,Eddie,Basden,eddbas,Chicago,18,0,Illinois
+101189,James,Singleton,jamsin,Dallas,17,22,Texas
+101190,Matt,Walsh,matwal,Miami,19,20,Florida
+101194,Anthony,Roberson,antrob,New York,21,100,New York
+101195,Luke,Schenscher,luksch,Chicago,24,0,Illinois
+101198,Will,Bynum,wilbyn,Detroit,33,17,Michigan
+101207,Kevin,Burleson,kevbur,Charlotte,15,50,North Carolina
+101209,Devin,Green,devgre,Los Angeles,13,0,California
+101211,Stephen,Graham,stegra,San Antonio,17,67,Texas
+101212,Esteban,Batista,estbat,Atlanta,17,60,Georgia
+101213,Sharrod,Ford,shafor,Phoenix,36,100,Arizona
+101214,Jawad,Williams,jawwil,Cleveland,26,29,Ohio
+101215,Will,Conroy,wilcon,Los Angeles,19,0,California
+101216,Marcus,Campbell,marcam,Charlotte,37,0,North Carolina
+101217,D'or,Fischer,d'ofis,Charlotte,41,22,North Carolina
+101219,Anthony,Grundy,antgru,Atlanta,35,0,Georgia
+101224,Deji,Akindele,dejaki,Charlotte,42,0,North Carolina
+101226,Matt,Nelson,matnel,Charlotte,42,0,North Carolina
+101227,Kennedy,Winston,kenwin,Memphis,25,100,Tennessee
+101228,Kyle,Bailey,kylbai,San Antonio,20,0,Texas
+101230,Noel,Felix,noefel,Seattle,21,100,Washington
+101235,Kelenna,Azubuike,kelazu,Dallas,15,60,Texas
+101236,Chuck,Hayes,chuhay,Toronto,39,100,Ohio
+101238,Boniface,Ndong,bonndo,Los Angeles,28,50,California
+101239,Otis,George,otigeo,New York,39,0,New York
+101240,Kevin,Braswell,kevbra,Miami,38,40,Florida
+101242,Jason,Capel,jascap,Charlotte,30,0,North Carolina
+101243,Chris,Alexander,chrale,Oklahoma City,27,67,Oklahoma
+101245,Filiberto,Rivera,filriv,Cleveland,21,50,Ohio
+101247,Keith,Langford,keilan,San Antonio,31,62,Texas
+101253,Olu,Famutimi,olufam,Philadelphia,27,50,Pennsylvania
+101254,Herve,Lamizana,herlam,Philadelphia,42,0,Pennsylvania
+101255,Steve,Castleberry,stecas,Philadelphia,20,0,Pennsylvania
+101256,Anthony,Lever-Pedroza,antlev,Phoenix,40,0,Arizona
+101257,Eric,Sandrin,erisan,Sacramento,19,33,California
+101258,Corey,Williams,corwil,Toronto,37,33,Ohio
+101259,Toree,Morris,tormor,Toronto,43,100,Ohio
+101260,Bryant,Matthews,brymat,Toronto,14,71,Ohio
+200081,Jamario,Moon,jammoo,Toronto,43,53,Ohio
+200390,Cheyne,Gadson,chegad,Dallas,33,0,Texas
+200510,Charles,Gaines,chagai,San Antonio,27,50,Texas
+200517,Joe,Shipp,joeshi,Charlotte,23,0,North Carolina
+200555,TJ,Cummings,tjcum,Milwaukee,42,33,Wisconsin
+200557,Chet,Mason,chemas,Cleveland,39,0,Ohio
+200575,Romel,Beck,rombec,Houston,17,0,Texas
+200583,Brandon,Robinson,brarob,Sacramento,19,50,California
+200745,Andrea,Bargnani,andbar,Toronto,21,48,Ohio
+200746,LaMarcus,Aldridge,lamald,San Antonio,30,47,Texas
+200747,Adam,Morrison,adamor,Portland,40,67,Oregon
+200748,Tyrus,Thomas,tyrtho,Charlotte,24,43,North Carolina
+200749,Shelden,Williams,shewil,Atlanta,37,38,Georgia
+200750,Brandon,Roy,braroy,Portland,16,67,Oregon
+200751,Randy,Foye,ranfoy,Denver,32,25,Colorado
+200752,Rudy,Gay,rudgay,San Antonio,33,42,Texas
+200753,Patrick,O'Bryant,pato'b,Toronto,41,60,Ohio
+200754,Mouhamed,Sene,mousen,Seattle,18,67,Washington
+200756,Hilton,Armstrong,hilarm,Indiana,32,0,Pennsylvania
+200757,Thabo,Sefolosha,thasef,Houston,19,100,Texas
+200759,Cedric,Simmons,cedsim,Chicago,29,33,Illinois
+200762,Oleksiy,Pecherov,olepec,Washington,43,60,District of Columbia
+200763,Quincy,Douby,quidou,Sacramento,34,25,California
+200764,Renaldo,Balkman,renbal,New York,26,50,New York
+200765,Rajon,Rondo,rajron,Dallas,13,22,Texas
+200768,Kyle,Lowry,kyllow,Houston,29,14,Texas
+200769,Shannon,Brown,shabro,New York,35,23,New York
+200770,Jordan,Farmar,jorfar,Los Angeles,31,60,California
+200771,Sergio,Rodriguez,serrod,Portland,25,46,Oregon
+200772,Maurice,Ager,mauage,Dallas,16,0,Texas
+200776,Mardy,Collins,marcol,Los Angeles,13,25,California
+200777,Joel,Freeland,joefre,Portland,19,100,Oregon
+200778,James,White,jamwhi,New York,42,25,New York
+200779,Steve,Novak,stenov,Houston,29,0,Texas
+200780,Solomon,Jones,soljon,Atlanta,40,0,Georgia
+200781,Paul,Davis,paudav,Los Angeles,34,20,California
+200782,P.J.,Tucker,p.jtuc,Phoenix,39,17,Arizona
+200784,Bobby,Jones,bobjon,Miami,43,100,Florida
+200786,David,Noel,davnoe,Milwaukee,13,17,Wisconsin
+200787,Denham,Brown,denbro,Seattle,41,0,Washington
+200788,James,Augustine,jamaug,Orlando,44,75,Florida
+200789,Daniel,Gibson,dangib,Cleveland,19,75,Ohio
+200790,Marcus,Vinicius,marvin,New Orleans,20,33,Louisiana
+200792,Alexander,Johnson,alejoh,Memphis,30,43,Tennessee
+200794,Paul,Millsap,paumil,Atlanta,41,45,Georgia
+200796,Leon,Powe,leopow,Boston,38,33,Massachusetts
+200797,Ryan,Hollins,ryahol,Charlotte,22,100,North Carolina
+200798,Cheikh,Samb,chesam,Detroit,24,40,Michigan
+200799,Guillermo,Diaz,guidia,Los Angeles,28,0,California
+200805,JR,Pinnock,jrpin,Los Angeles,28,29,California
+200806,Damir,Markota,dammar,Milwaukee,41,38,Wisconsin
+200807,Will,Blalock,wilbla,Detroit,39,100,Michigan
+200809,Chris,Quinn,chrqui,Miami,36,60,Florida
+200810,Allan,Ray,allray,Boston,35,67,Massachusetts
+200811,Lou,Amundson,louamu,New York,42,75,New York
+200812,Daniel,Horton,danhor,Miami,21,25,Florida
+200813,Vincent,Grier,vingri,Washington,34,0,District of Columbia
+200814,Tarence,Kinsey,tarkin,Cleveland,25,67,Ohio
+200815,Jamar,Smith,jamsmi,San Antonio,22,33,Texas
+200816,Jorge,Garbajosa,jorgar,Toronto,25,36,Ohio
+200817,Pooh,Jeter,poojet,Sacramento,23,0,California
+200818,Justin,Williams,juswil,Sacramento,16,0,California
+200819,Kevin,Pittsnogle,kevpit,Boston,43,0,Massachusetts
+200821,Yakhouba,Diawara,yakdia,Miami,28,14,Florida
+200822,Pops,Mensah-Bonsu,popmen,Houston,37,83,Texas
+200823,Robert,Hite,robhit,Miami,35,33,Florida
+200825,Matt,Haryasz,mathar,Houston,44,100,Texas
+200826,J.J.,Barea,j.jbar,Dallas,16,47,Texas
+200827,Darius,Washington,darwas,San Antonio,20,25,Texas
+200828,Pat,Carroll,patcar,Dallas,24,40,Texas
+200829,Ivan,McFarlin,ivamcf,Philadelphia,41,67,Pennsylvania
+200830,Charles,Lee,chalee,San Antonio,28,25,Texas
+200835,Walter,Herrmann,walher,Detroit,37,20,Michigan
+200836,Akin,Akingbala,akiaki,Boston,25,100,Massachusetts
+200837,Mike,Hall,mikhal,Washington,17,50,District of Columbia
+200838,Kevinn,Pinkney,kevpin,Boston,19,30,Massachusetts
+200840,Chris,McCray,chrmcc,Milwaukee,19,0,Wisconsin
+200841,Cedric,Bozeman,cedboz,Atlanta,27,0,Georgia
+200842,Rob,Griffin,robgri,Detroit,39,0,Michigan
+200843,LaVell,Blanchard,lavbla,Toronto,20,20,Ohio
+200844,Davin,White,davwhi,Phoenix,13,50,Arizona
+200845,Dawan,Robinson,dawrob,Los Angeles,30,75,California
+200846,Kenny,Adeleke,kenade,Seattle,22,0,Washington
+200848,Steven,Smith,stesmi,Philadelphia,33,0,Pennsylvania
+200849,Jackie,Manuel,jacman,Boston,21,0,Massachusetts
+200852,Antoine,Hood,anthoo,Denver,27,20,Colorado
+200853,Ondrej,Starosta,ondsta,Cleveland,23,0,Ohio
+200857,Elton,Brown,eltbro,Los Angeles,43,0,California
+200858,Milone,Clark,milcla,New York,18,20,New York
+200859,Paul,Miller,paumil,New York,23,33,New York
+200862,Scooter,McFadgon,scomcf,New Orleans,44,67,Louisiana
+200894,Isma'il,Muhammad,ismmuh,Charlotte,18,0,North Carolina
+200951,Chris,Ellis,chrell,Portland,18,0,Oregon
+200962,Justin,Williams,juswil,Charlotte,19,50,North Carolina
+200971,Dontell,Jefferson,donjef,Charlotte,30,50,North Carolina
+200978,Jeremy,Richardson,jerric,Atlanta,29,0,Georgia
+200984,Lance,Allred,lanall,Indiana,20,0,Pennsylvania
+201001,Andre,Patterson,andpat,Los Angeles,41,0,California
+201005,Andre,Brown,andbro,Charlotte,16,0,North Carolina
+201015,Antywane,Robinson,antrob,Atlanta,24,50,Georgia
+201041,Walker,Russell,walrus,Detroit,41,0,Michigan
+201043,Randolph,Morris,ranmor,Atlanta,22,75,Georgia
+201141,Greg,Oden,greode,Portland,44,80,Oregon
+201142,Kevin,Durant,kevdur,Oklahoma City,32,28,Oklahoma
+201143,Al,Horford,alhor,Atlanta,35,38,Georgia
+201144,Mike,Conley,mikcon,Memphis,43,53,Tennessee
+201145,Jeff,Green,jefgre,Denver,16,40,Colorado
+201146,Yi,Jianlian,yijia,Milwaukee,42,67,Wisconsin
+201147,Corey,Brewer,corbre,Denver,18,54,Colorado
+201148,Brandan,Wright,brawri,Phoenix,21,38,Arizona
+201149,Joakim,Noah,joanoa,Chicago,35,38,Illinois
+201150,Spencer,Hawes,spehaw,Sacramento,43,33,California
+201151,Acie,Law,acilaw,Atlanta,42,60,Georgia
+201152,Thaddeus,Young,thayou,Indiana,38,69,Pennsylvania
+201153,Julian,Wright,julwri,Toronto,17,100,Ohio
+201154,Al,Thornton,altho,Los Angeles,15,40,California
+201155,Rodney,Stuckey,rodstu,Detroit,38,43,Michigan
+201156,Nick,Young,nicyou,Washington,28,18,District of Columbia
+201158,Marco,Belinelli,marbel,New Orleans,27,29,Louisiana
+201159,Javaris,Crittenton,javcri,Washington,33,25,District of Columbia
+201160,Jason,Smith,jassmi,New Orleans,30,44,Louisiana
+201161,Daequan,Cook,daecoo,Miami,16,27,Florida
+201162,Jared,Dudley,jardud,Milwaukee,16,100,Wisconsin
+201163,Wilson,Chandler,wilcha,New York,16,40,New York
+201164,Rudy,Fernandez,rudfer,Portland,15,55,Oregon
+201166,Aaron,Brooks,aarbro,Houston,26,40,Texas
+201167,Arron,Afflalo,arraff,Portland,16,41,Oregon
+201168,Tiago,Splitter,tiaspl,San Antonio,38,100,Texas
+201169,Alando,Tucker,alatuc,Phoenix,28,50,Arizona
+201172,Gabe,Pruitt,gabpru,Boston,31,50,Massachusetts
+201173,Marcus,Williams,marwil,Denver,27,40,Colorado
+201174,Nick,Fazekas,nicfaz,Dallas,16,50,Texas
+201175,Glen,Davis,gledav,Boston,17,67,Massachusetts
+201176,Jermareo,Davidson,jerdav,Charlotte,44,100,North Carolina
+201177,Josh,McRoberts,josmcr,Indiana,13,43,Pennsylvania
+201180,Sun,Sun,sunsun,Los Angeles,17,0,California
+201182,Derrick,Byars,derbya,San Antonio,30,50,Texas
+201183,Adam,Haluska,adahal,Dallas,42,0,Texas
+201184,Reyshawn,Terry,reyter,Dallas,36,100,Texas
+201185,Jared,Jordan,jarjor,New York,36,50,New York
+201186,Stephane,Lasme,stelas,Miami,30,50,Florida
+201188,Marc,Gasol,margas,Memphis,28,38,Tennessee
+201189,Aaron,Gray,aargra,Sacramento,35,38,California
+201191,JamesOn,Curry,jamcur,Los Angeles,19,100,California
+201192,Taurean,Green,taugre,Portland,31,100,Oregon
+201193,Demetris,Nichols,demnic,Chicago,16,33,Illinois
+201195,Herbert,Hill,herhil,Philadelphia,31,33,Pennsylvania
+201196,Ramon,Sessions,ramses,Milwaukee,44,71,Wisconsin
+201197,Sammy,Mejia,sammej,Detroit,16,25,Michigan
+201199,DJ,Strawberry,djstr,Phoenix,22,50,Arizona
+201201,Marcus,Slaughter,marsla,Miami,20,33,Florida
+201202,Joel,Anthony,joeant,Detroit,34,67,Michigan
+201203,Mustafa,Shakur,mussha,New Orleans,36,25,Louisiana
+201204,Brandon,Wallace,brawal,Boston,26,0,Massachusetts
+201208,Darryl,Watkins,darwat,Sacramento,16,67,California
+201213,Larry,Turner,lartur,Los Angeles,16,100,California
+201225,Carlos,Powell,carpow,Phoenix,26,33,Arizona
+201226,Kevin,Kruger,kevkru,Milwaukee,19,0,Wisconsin
+201227,Torrell,Martin,tormar,Orlando,40,100,Florida
+201230,Doug,Thomas,doutho,San Antonio,44,0,Texas
+201231,Nik,Caner-Medley,nikcan,Sacramento,35,100,California
+201232,Jared,Newson,jarnew,Dallas,33,50,Texas
+201234,Trey,Johnson,trejoh,Sacramento,30,40,California
+201235,Courtney,Sims,cousim,Indiana,22,0,Pennsylvania
+201236,Lukasz,Obrzut,lukobr,Indiana,17,0,Pennsylvania
+201237,Brent,Petway,brepet,Memphis,14,100,Tennessee
+201238,Mario,West,marwes,Atlanta,37,75,Georgia
+201239,Rashid,Byrd,rasbyr,Sacramento,26,0,California
+201240,Brad,Stricker,brastr,Denver,21,0,Colorado
+201242,Thomas,Gardner,thogar,Atlanta,43,67,Georgia
+201243,Jared,Homan,jarhom,Chicago,33,0,Illinois
+201248,Anthony,Richardson,antric,New Orleans,36,0,Louisiana
+201249,Jamaal,Tatum,jamtat,Portland,38,0,Oregon
+201251,Jamon,Lucas,jamluc,Washington,17,0,District of Columbia
+201252,Willie,Deane,wildea,Washington,25,0,District of Columbia
+201266,Brian,Hamilton,briham,Detroit,26,0,Michigan
+201274,Ivan,Johnson,ivajoh,Atlanta,33,80,Georgia
+201281,Andre,Ingram,anding,Los Angeles,36,22,California
+201291,Carldell,Johnson,carjoh,New Orleans,38,0,Louisiana
+201351,Ron,Howard,ronhow,Milwaukee,16,0,Wisconsin
+201446,Mike,Taylor,miktay,Los Angeles,36,25,California
+201564,O.J.,Mayo,o.jmay,Dallas,20,33,Texas
+201565,Derrick,Rose,derros,Chicago,18,36,Illinois
+201566,Russell,Westbrook,ruswes,Oklahoma City,23,55,Oklahoma
+201569,Eric,Gordon,erigor,Houston,34,23,Texas
+201570,Joe,Alexander,joeale,Chicago,40,0,Illinois
+201571,D.J.,Augustin,d.jaug,Detroit,19,43,Michigan
+201572,Brook,Lopez,brolop,Brooklyn,16,53,New York
+201573,Jerryd,Bayless,jerbay,Portland,19,23,Oregon
+201574,Jason,Thompson,jastho,Sacramento,25,38,California
+201576,Anthony,Randolph,antran,Denver,36,40,Colorado
+201577,Robin,Lopez,roblop,Washington,40,67,District of Columbia
+201578,Marreese,Speights,marspe,Philadelphia,30,33,Pennsylvania
+201579,Roy,Hibbert,royhib,Indiana,39,40,Pennsylvania
+201580,JaVale,McGee,javmcg,Phoenix,34,100,Arizona
+201581,JJ,Hickson,jjhic,Portland,20,67,Oregon
+201582,Alexis,Ajinca,aleaji,New Orleans,28,75,Louisiana
+201583,Ryan,Anderson,ryaand,Orlando,21,36,Florida
+201584,Courtney,Lee,coulee,Houston,34,44,Texas
+201585,Kosta,Koufos,koskou,Sacramento,20,70,California
+201587,Nicolas,Batum,nicbat,Portland,19,80,Oregon
+201588,George,Hill,geohil,Cleveland,32,55,Ohio
+201589,Darrell,Arthur,darart,Memphis,32,38,Tennessee
+201590,Donte,Greene,dongre,Sacramento,23,53,California
+201591,DJ,White,djwhi,Oklahoma City,26,100,Oklahoma
+201592,J.R.,Giddens,j.rgid,New York,23,100,New York
+201594,Walter,Sharpe,walsha,Detroit,38,38,Michigan
+201595,Joey,Dorsey,joedor,Sacramento,13,0,California
+201596,Mario,Chalmers,marcha,Miami,37,31,Florida
+201599,DeAndre,Jordan,deajor,Dallas,18,56,Texas
+201600,Omer,Asik,omeasi,New Orleans,30,78,Louisiana
+201601,Luc,Mbah,lucmba,Houston,22,38,Texas
+201603,Sonny,Weems,sonwee,Toronto,23,46,Ohio
+201604,Chris,Douglas-Roberts,chrdou,Charlotte,14,0,North Carolina
+201606,Sean,Singletary,seasin,Charlotte,40,100,North Carolina
+201607,Patrick,Ewing,patewi,New Orleans,28,0,Louisiana
+201609,Goran,Dragic,gordra,Miami,25,64,Florida
+201610,Trent,Plaisted,trepla,Los Angeles,21,0,California
+201611,Henry,Walker,henwal,New York,43,20,New York
+201612,Malik,Hairston,malhai,San Antonio,27,100,Texas
+201616,Darnell,Jackson,darjac,Cleveland,40,50,Ohio
+201619,Sasha,Kaun,saskau,Cleveland,42,50,Ohio
+201620,James,Gist,jamgis,San Antonio,39,0,Texas
+201621,Joe,Crawford,joecra,Los Angeles,16,0,California
+201622,Deron,Washington,derwas,Detroit,43,100,Michigan
+201623,Semih,Erden,semerd,Cleveland,31,50,Ohio
+201624,David,Padgett,davpad,Miami,14,0,Florida
+201628,Bobby,Brown,bobbro,New Orleans,34,50,Louisiana
+201629,Othello,Hunter,othhun,Atlanta,28,50,Georgia
+201631,Steven,Hill,stehil,Portland,13,0,Oregon
+201632,Hamed,Haddadi,hamhad,Memphis,16,20,Tennessee
+201635,Brandon,Heath,brahea,Los Angeles,33,33,California
+201636,CJ,Giles,cjgil,Los Angeles,38,50,California
+201641,Curtis,Sumpter,cursum,Los Angeles,15,50,California
+201642,Taj,McCullough,tajmcc,Washington,34,67,District of Columbia
+201643,Dan,Grunfeld,dangru,New York,24,0,New York
+201644,Omar,Barlett,omabar,Miami,33,33,Florida
+201645,Tre,Kelley,trekel,Oklahoma City,17,100,Oklahoma
+201647,Marcus,Hubbard,marhub,Los Angeles,30,100,California
+201648,Frank,Robinson,frarob,Atlanta,20,0,Georgia
+201649,Vernon,Hamilton,verham,Detroit,41,0,Michigan
+201650,JaJuan,Smith,jajsmi,Dallas,20,0,Texas
+201651,James,Mays,jammay,Brooklyn,14,60,New York
+201652,Charles,Rhodes,charho,Dallas,17,0,Texas
+201653,Coleman,Collins,colcol,Phoenix,23,0,Arizona
+201654,Kai,Zhang,kaizha,Sacramento,29,0,California
+201776,David,Monds,davmon,Los Angeles,36,0,California
+201781,Russell,Robinson,rusrob,Cleveland,44,27,Ohio
+201785,Othyus,Jeffers,othjef,Washington,39,71,District of Columbia
+201792,Moses,Ehambe,moseha,New Orleans,44,0,Louisiana
+201802,Oliver,Lafayette,olilaf,Boston,30,50,Massachusetts
+201814,Gary,Forbes,garfor,Denver,14,0,Colorado
+201820,Josh,Davis,josdav,Memphis,37,67,Tennessee
+201821,Trey,Gilder,tregil,Memphis,20,0,Tennessee
+201831,Lanny,Smith,lansmi,Sacramento,16,0,California
+201848,Longar,Longar,lonlon,Oklahoma City,23,0,Oklahoma
+201858,Cartier,Martin,carmar,Atlanta,29,25,Georgia
+201933,Blake,Griffin,blagri,Los Angeles,43,30,California
+201934,Hasheem,Thabeet,hastha,Oklahoma City,24,83,Oklahoma
+201935,James,Harden,jamhar,Houston,18,62,Texas
+201936,Tyreke,Evans,tyreva,Sacramento,27,62,California
+201941,Jordan,Hill,jorhil,Houston,32,75,Texas
+201942,DeMar,DeRozan,demder,Toronto,32,25,Ohio
+201943,Brandon,Jennings,brajen,Milwaukee,18,41,Wisconsin
+201945,Gerald,Henderson,gerhen,Charlotte,17,46,North Carolina
+201946,Tyler,Hansbrough,tylhan,Indiana,16,38,Pennsylvania
+201947,Earl,Clark,earcla,Los Angeles,43,42,California
+201948,Austin,Daye,ausday,San Antonio,17,57,Texas
+201949,James,Johnson,jamjoh,Sacramento,38,25,California
+201950,Jrue,Holiday,jruhol,Philadelphia,32,53,Pennsylvania
+201951,Ty,Lawson,tylaw,Denver,20,29,Colorado
+201952,Jeff,Teague,jeftea,Atlanta,23,35,Georgia
+201953,Eric,Maynor,erimay,Oklahoma City,36,62,Oklahoma
+201954,Darren,Collison,darcol,Indiana,44,56,Pennsylvania
+201956,Omri,Casspi,omrcas,Houston,19,56,Texas
+201957,Byron,Mullens,byrmul,Los Angeles,16,0,California
+201958,Rodrigue,Beaubois,rodbea,Dallas,35,33,Texas
+201960,DeMarre,Carroll,demcar,Brooklyn,33,38,New York
+201961,Wayne,Ellington,wayell,Miami,28,0,Florida
+201962,Toney,Douglas,tondou,New York,43,29,New York
+201963,Christian,Eyenga,chreye,Cleveland,22,71,Ohio
+201964,Victor,Claver,viccla,Portland,42,75,Oregon
+201965,Jeff,Ayres,jefayr,San Antonio,44,100,Texas
+201966,Jermaine,Taylor,jertay,Houston,22,40,Texas
+201967,Dante,Cunningham,dancun,New Orleans,34,29,Louisiana
+201969,DaJuan,Summers,dajsum,New York,25,46,New York
+201970,Sam,Young,samyou,Memphis,32,43,Tennessee
+201971,DeJuan,Blair,dejbla,San Antonio,37,62,Texas
+201972,Jon,Brockman,jonbro,Milwaukee,37,50,Wisconsin
+201973,Jonas,Jerebko,jonjer,Boston,38,60,Massachusetts
+201974,Derrick,Brown,derbro,Charlotte,14,40,North Carolina
+201975,Jodie,Meeks,jodmee,Los Angeles,16,33,California
+201977,Marcus,Thornton,martho,Houston,32,33,Texas
+201978,Chase,Budinger,chabud,Indiana,24,38,Pennsylvania
+201979,Nick,Calathes,niccal,Memphis,36,0,Tennessee
+201980,Danny,Green,dangre,San Antonio,36,27,Texas
+201981,Taylor,Griffin,taygri,Charlotte,13,0,North Carolina
+201985,AJ,Price,ajpri,Indiana,17,50,Pennsylvania
+201986,Nando,De,nande,San Antonio,15,40,Texas
+201988,Patty,Mills,patmil,San Antonio,33,44,Texas
+201991,Lester,Hudson,leshud,Memphis,38,0,Tennessee
+201993,Robert,Dozier,robdoz,Miami,14,0,Florida
+201998,Curtis,Jerrells,curjer,San Antonio,43,40,Texas
+201999,Warren,Carter,warcar,New York,27,0,New York
+202066,Garrett,Temple,gartem,Sacramento,15,67,California
+202068,Marcus,Landry,marlan,New York,39,20,New York
+202069,Dontaye,Draper,dondra,Denver,14,100,Colorado
+202070,Tony,Gaffney,tongaf,Los Angeles,28,33,California
+202071,Michael,Fey,micfey,Los Angeles,31,50,California
+202074,Raymond,Sykes,raysyk,Portland,16,33,Oregon
+202075,Luke,Nevill,luknev,Cleveland,27,0,Ohio
+202076,Thomas,Kelati,thokel,Los Angeles,41,0,California
+202077,Jerel,McNeal,jermcn,Phoenix,25,0,Arizona
+202078,Leon,Rodgers,leorod,Memphis,13,100,Tennessee
+202079,Antonio,Anderson,antand,Charlotte,25,25,North Carolina
+202081,Garret,Siler,garsil,Phoenix,39,50,Arizona
+202083,Wesley,Matthews,wesmat,Portland,15,53,Oregon
+202087,Alonzo,Gee,alogee,Cleveland,13,11,Ohio
+202091,Dionte,Christmas,diochr,Boston,34,25,Massachusetts
+202130,Reggie,Williams,regwil,Charlotte,25,69,North Carolina
+202132,Cedric,Jackson,cedjac,Cleveland,31,40,Ohio
+202148,Mickell,Gladness,micgla,Orlando,22,33,Florida
+202175,Darnell,Lazare,darlaz,Indiana,32,0,Pennsylvania
+202197,Shane,Edwards,shaedw,Cleveland,13,0,Ohio
+202213,Connor,Atchley,conatc,Sacramento,20,0,California
+202217,Jeremy,Wise,jerwis,Miami,37,100,Florida
+202220,Zabian,Dowdell,zabdow,Phoenix,24,22,Arizona
+202227,Terrel,Harris,terhar,Miami,37,33,Florida
+202238,Kenny,Hasbrouck,kenhas,Miami,35,0,Florida
+202322,John,Wall,johwal,Washington,32,14,District of Columbia
+202323,Evan,Turner,evatur,Portland,18,46,Oregon
+202326,DeMarcus,Cousins,demcou,New Orleans,17,36,Louisiana
+202327,Ekpe,Udoh,ekpudo,Los Angeles,26,50,California
+202328,Greg,Monroe,gremon,Milwaukee,35,60,Wisconsin
+202329,Al-Farouq,Aminu,al-ami,Dallas,21,83,Texas
+202331,Paul,George,paugeo,Indiana,29,45,Pennsylvania
+202333,Xavier,Henry,xavhen,Memphis,30,50,Tennessee
+202334,Ed,Davis,eddav,Cleveland,42,100,Ohio
+202336,Larry,Sanders,larsan,Milwaukee,14,62,Wisconsin
+202337,Luke,Babbitt,lukbab,Miami,27,50,Florida
+202338,Kevin,Seraphin,kevser,Washington,33,47,District of Columbia
+202339,Eric,Bledsoe,erible,Milwaukee,34,39,Wisconsin
+202340,Avery,Bradley,avebra,Boston,37,56,Massachusetts
+202341,James,Anderson,jamand,San Antonio,27,40,Texas
+202342,Craig,Brackins,crabra,Philadelphia,31,20,Pennsylvania
+202343,Elliot,Williams,ellwil,Cleveland,33,50,Ohio
+202344,Trevor,Booker,treboo,Washington,17,55,District of Columbia
+202346,Dominique,Jones,domjon,Dallas,23,38,Texas
+202347,Quincy,Pondexter,quipon,Chicago,24,40,Illinois
+202348,Jordan,Crawford,jorcra,Washington,13,45,District of Columbia
+202349,Greivis,Vasquez,grevas,Toronto,17,33,Ohio
+202350,Daniel,Orton,danort,Orlando,33,50,Florida
+202351,Lazar,Hayward,lazhay,Oklahoma City,25,17,Oklahoma
+202354,Dexter,Pittman,dexpit,Miami,26,0,Florida
+202356,Armon,Johnson,armjoh,Portland,42,33,Oregon
+202357,Nemanja,Bjelica,nembje,Sacramento,22,100,California
+202358,Terrico,White,terwhi,Phoenix,41,0,Arizona
+202359,Darington,Hobson,darhob,Milwaukee,38,0,Wisconsin
+202360,Andy,Rautins,andrau,New York,34,60,New York
+202361,Landry,Fields,lanfie,Toronto,23,50,Ohio
+202362,Lance,Stephenson,lanste,Indiana,20,43,Pennsylvania
+202363,Jarvis,Varnado,jarvar,Miami,20,75,Florida
+202365,Devin,Ebanks,deveba,Los Angeles,43,80,California
+202366,Jerome,Jordan,jerjor,Memphis,26,100,Tennessee
+202371,Gani,Lawal,ganlaw,Philadelphia,31,0,Pennsylvania
+202374,Solomon,Alabi,solala,Toronto,26,30,Ohio
+202375,Magnum,Rolle,magrol,Atlanta,37,0,Georgia
+202376,Luke,Harangody,lukhar,Cleveland,13,0,Ohio
+202377,Pape,Sy,papsy,Atlanta,40,50,Georgia
+202378,Willie,Warren,wilwar,Los Angeles,24,50,California
+202379,Jeremy,Evans,jereva,Indiana,16,0,Pennsylvania
+202380,Hamady,Ndiaye,hamndi,Washington,13,0,District of Columbia
+202382,Derrick,Caracter,dercar,Los Angeles,16,100,California
+202383,Stanley,Robinson,starob,Orlando,22,33,Florida
+202385,Ryan,Reid,ryarei,Oklahoma City,25,0,Oklahoma
+202388,Donald,Sloan,donslo,Cleveland,16,40,Ohio
+202389,Timofey,Mozgov,timmoz,Denver,15,0,Colorado
+202390,Gary,Neal,garnea,San Antonio,39,31,Texas
+202391,Jeremy,Lin,jerlin,Atlanta,13,25,Georgia
+202392,Marqus,Blakely,marbla,Los Angeles,20,50,California
+202394,Matt,Janning,matjan,Phoenix,35,0,Arizona
+202395,Sherron,Collins,shecol,Charlotte,44,20,North Carolina
+202396,Samardo,Samuels,samsam,Cleveland,26,12,Ohio
+202397,Ish,Smith,ishsmi,Oklahoma City,18,25,Oklahoma
+202399,Jeff,Adrien,jefadr,Milwaukee,17,60,Wisconsin
+202400,Anthony,Mason,antmas,Miami,21,75,Florida
+202402,Kevin,Palmer,kevpal,Washington,44,0,District of Columbia
+202404,Drew,Naymick,drenay,Los Angeles,25,0,California
+202406,Jerome,Dyson,jerdys,New Orleans,23,50,Louisiana
+202409,Ricardo,Marsh,ricmar,Atlanta,32,75,Georgia
+202410,Evan,Brock,evabro,Atlanta,29,0,Georgia
+202411,Richard,Delk,ricdel,Atlanta,19,0,Georgia
+202412,Manny,Harris,manhar,Cleveland,27,40,Ohio
+202416,Jon,Scheyer,jonsch,Los Angeles,28,0,California
+202417,Stephen,Dennis,steden,Brooklyn,35,0,New York
+202418,Matt,Rogers,matrog,Charlotte,26,0,North Carolina
+202419,Chris,Johnson,chrjoh,Miami,26,0,Florida
+202420,Eric,Boateng,eriboa,Denver,15,40,Colorado
+202423,Chris,Kramer,chrkra,Milwaukee,39,33,Wisconsin
+202446,Jamar,Smith,jamsmi,Boston,18,0,Massachusetts
+202458,Justin,Dentmon,jusden,San Antonio,27,25,Texas
+202464,Devin,Sweetney,devswe,Denver,33,67,Colorado
+202498,Lance,Thomas,lantho,New York,21,83,New York
+202513,Stefhon,Hannah,stehan,Chicago,24,0,Illinois
+202518,Kammron,Taylor,kamtay,Boston,23,0,Massachusetts
+202545,Luke,Zeller,lukzel,Phoenix,29,40,Arizona
+202550,Josh,Bostic,josbos,Detroit,16,0,Michigan
+202586,DeShawn,Sims,dessim,Boston,28,100,Massachusetts
+202620,Arinze,Onuaku,arionu,Orlando,14,75,Florida
+202622,Courtney,Fortson,coufor,Houston,30,25,Texas
+202681,Kyrie,Irving,kyrirv,Boston,39,29,Massachusetts
+202682,Derrick,Williams,derwil,New York,40,64,New York
+202683,Enes,Kanter,enekan,New York,23,70,New York
+202684,Tristan,Thompson,tritho,Cleveland,29,44,Ohio
+202685,Jonas,Valanciunas,jonval,Toronto,26,62,Ohio
+202686,Jan,Vesely,janves,Denver,37,0,Colorado
+202687,Bismack,Biyombo,bisbiy,Charlotte,42,100,North Carolina
+202688,Brandon,Knight,brakni,Detroit,43,55,Michigan
+202689,Kemba,Walker,kemwal,Boston,29,33,Massachusetts
+202690,Jimmer,Fredette,jimfre,New Orleans,31,0,Louisiana
+202693,Markieff,Morris,marmor,Phoenix,19,55,Arizona
+202694,Marcus,Morris,marmor,Detroit,43,63,Michigan
+202695,Kawhi,Leonard,kawleo,San Antonio,20,80,Texas
+202696,Nikola,Vucevic,nikvuc,Orlando,31,43,Florida
+202697,Iman,Shumpert,imashu,Cleveland,16,43,Ohio
+202698,Chris,Singleton,chrsin,Washington,34,33,District of Columbia
+202699,Tobias,Harris,tobhar,Detroit,21,33,Michigan
+202700,Donatas,Motiejunas,donmot,Houston,34,70,Texas
+202701,Nolan,Smith,nolsmi,Portland,30,67,Oregon
+202702,Kenneth,Faried,kenfar,Houston,19,0,Texas
+202703,Nikola,Mirotic,nikmir,New Orleans,35,38,Louisiana
+202704,Reggie,Jackson,regjac,Oklahoma City,41,22,Oklahoma
+202705,MarShon,Brooks,marbro,Los Angeles,39,50,California
+202706,Jordan,Hamilton,jorham,Los Angeles,32,33,California
+202707,JaJuan,Johnson,jajjoh,Boston,30,33,Massachusetts
+202708,Norris,Cole,norcol,New Orleans,22,44,Louisiana
+202709,Cory,Joseph,corjos,Indiana,28,50,Pennsylvania
+202710,Jimmy,Butler,jimbut,Chicago,44,48,Illinois
+202712,Justin,Harper,jushar,Orlando,15,0,Florida
+202713,Kyle,Singler,kylsin,Detroit,24,0,Michigan
+202715,Tyler,Honeycutt,tylhon,Sacramento,14,67,California
+202717,Trey,Thompkins,tretho,Los Angeles,29,0,California
+202718,Chandler,Parsons,chapar,Dallas,21,12,Texas
+202719,Jeremy,Tyler,jertyl,New York,27,33,New York
+202720,Jon,Leuer,jonleu,Memphis,24,60,Tennessee
+202721,Darius,Morris,darmor,Los Angeles,15,40,California
+202722,Davis,Bertans,davber,Washington,20,38,District of Columbia
+202725,Josh,Harrellson,joshar,Miami,39,25,Florida
+202726,Andrew,Goudelock,andgou,Los Angeles,30,67,California
+202727,Travis,Leslie,trales,Los Angeles,24,0,California
+202728,Keith,Benson,keiben,Atlanta,32,33,Georgia
+202729,Josh,Selby,jossel,Memphis,21,67,Tennessee
+202730,Lavoy,Allen,lavall,Indiana,23,12,Pennsylvania
+202731,Vernon,Macklin,vermac,New Orleans,36,100,Louisiana
+202732,DeAndre,Liggins,dealig,Cleveland,34,50,Ohio
+202734,E'Twaun,Moore,e'tmoo,Orlando,19,0,Florida
+202738,Isaiah,Thomas,isatho,Los Angeles,15,11,California
+202770,Tristan,Thompson,tritho,Cleveland,39,40,Ohio
+202775,Edwin,Ubiles,edwubi,Washington,35,50,District of Columbia
+202779,Dwight,Buycks,dwibuy,Toronto,31,20,Ohio
+202792,Tyren,Johnson,tyrjoh,Indiana,13,0,Pennsylvania
+202797,Lawrence,Hill,lawhil,Sacramento,22,0,California
+202808,Chris,Daniels,chrdan,Brooklyn,43,46,New York
+202809,Cory,Higgins,corhig,Charlotte,30,25,North Carolina
+202810,D.J.,Kennedy,d.jken,Denver,31,67,Colorado
+202814,Mychel,Thompson,myctho,Cleveland,27,14,Ohio
+202815,Jake,Anderson,jakand,Chicago,40,0,Illinois
+202820,Jarrid,Famous,jarfam,Dallas,43,50,Texas
+202872,Durrell,Summers,dursum,Charlotte,39,33,North Carolina
+202880,Jeff,Foote,jeffoo,New Orleans,35,0,Louisiana
+202904,Gilbert,Brown,gilbro,Boston,20,0,Massachusetts
+202912,Frank,Hassell,frahas,San Antonio,14,33,Texas
+202918,Xavier,Silas,xavsil,Denver,18,0,Colorado
+202933,Julyan,Stone,julsto,Charlotte,18,50,North Carolina
+202935,Adrian,Oliver,adroli,Sacramento,27,0,California
+202951,Jeremy,Pargo,jerpar,Memphis,31,50,Tennessee
+202952,Malcolm,Thomas,maltho,Philadelphia,17,50,Pennsylvania
+202957,Drew,Neitzel,drenei,Dallas,38,50,Texas
+202962,Greg,Smith,gresmi,Houston,37,33,Texas
+202963,Jerome,Randle,jerran,Dallas,17,64,Texas
+202970,Gustavo,Ayon,gusayo,New Orleans,29,55,Louisiana
+203006,Josh,Akognon,josako,Dallas,34,33,Texas
+203076,Anthony,Davis,antdav,New Orleans,42,57,Louisiana
+203077,Michael,Kidd-Gilchrist,mickid,Charlotte,30,69,North Carolina
+203078,Bradley,Beal,brabea,Washington,29,12,District of Columbia
+203079,Dion,Waiters,diowai,Cleveland,37,25,Ohio
+203080,Thomas,Robinson,thorob,Los Angeles,33,0,California
+203081,Damian,Lillard,damlil,Portland,15,47,Oregon
+203082,Terrence,Ross,terros,Toronto,42,33,Ohio
+203083,Andre,Drummond,anddru,Detroit,30,29,Michigan
+203084,Harrison,Barnes,harbar,Dallas,21,38,Texas
+203085,Austin,Rivers,ausriv,New Orleans,36,0,Louisiana
+203086,Meyers,Leonard,meyleo,Portland,38,53,Oregon
+203087,Jeremy,Lamb,jerlam,Charlotte,15,33,North Carolina
+203088,Kendall,Marshall,kenmar,Milwaukee,24,33,Wisconsin
+203089,John,Henson,johhen,Milwaukee,37,80,Wisconsin
+203090,Maurice,Harkless,mauhar,Portland,15,20,Oregon
+203091,Royce,White,roywhi,Houston,30,0,Texas
+203092,Tyler,Zeller,tylzel,Boston,25,54,Massachusetts
+203093,Terrence,Jones,terjon,New Orleans,26,58,Louisiana
+203094,Andrew,Nicholson,andnic,Orlando,25,56,Florida
+203095,Evan,Fournier,evafou,Orlando,34,83,Florida
+203096,Jared,Sullinger,jarsul,Boston,19,53,Massachusetts
+203097,Fab,Melo,fabmel,Dallas,29,0,Texas
+203098,John,Jenkins,johjen,Phoenix,42,71,Arizona
+203099,Jared,Cunningham,jarcun,Sacramento,13,17,California
+203100,Tony,Wroten,tonwro,Philadelphia,16,55,Pennsylvania
+203101,Miles,Plumlee,milplu,Phoenix,36,43,Arizona
+203102,Arnett,Moultrie,arnmou,Philadelphia,17,50,Pennsylvania
+203103,Perry,Jones,perjon,Oklahoma City,17,25,Oklahoma
+203104,Marquis,Teague,martea,Chicago,28,40,Illinois
+203106,Jeffery,Taylor,jeftay,Charlotte,43,54,North Carolina
+203107,Tomas,Satoransky,tomsat,Washington,31,83,District of Columbia
+203108,Bernard,James,berjam,Dallas,16,0,Texas
+203111,Orlando,Johnson,orljoh,Indiana,17,0,Pennsylvania
+203112,Quincy,Acy,quiacy,New York,26,67,New York
+203113,Quincy,Miller,quimil,Denver,39,38,Colorado
+203114,Khris,Middleton,khrmid,Detroit,19,14,Michigan
+203115,Will,Barton,wilbar,Denver,36,68,Colorado
+203116,Tyshawn,Taylor,tystay,Brooklyn,39,40,New York
+203117,Doron,Lamb,dorlam,Orlando,43,100,Florida
+203118,Mike,Scott,miksco,Atlanta,22,0,Georgia
+203119,Kim,English,kimeng,Chicago,36,40,Illinois
+203120,Justin,Hamilton,jusham,Brooklyn,40,80,New York
+203121,Darius,Miller,darmil,New Orleans,31,64,Louisiana
+203123,Kostas,Papanikolaou,kospap,Houston,31,27,Texas
+203124,Kyle,O'Quinn,kylo'q,New York,21,75,New York
+203126,Kris,Joseph,krijos,Brooklyn,31,0,New York
+203128,Furkan,Aldemir,furald,Philadelphia,43,67,Pennsylvania
+203129,Tornike,Shengelia,torshe,Brooklyn,34,33,New York
+203130,Darius,Johnson-Odom,darjoh,Philadelphia,41,0,Pennsylvania
+203135,Robert,Sacre,robsac,Los Angeles,37,33,California
+203138,Hollis,Thompson,holtho,Philadelphia,23,64,Pennsylvania
+203139,Viacheslav,Kravtsov,viakra,Detroit,16,100,Michigan
+203141,Mirza,Teletovic,mirtel,Phoenix,27,78,Arizona
+203142,Chris,Copeland,chrcop,Indiana,34,80,Pennsylvania
+203143,Pablo,Prigioni,pabpri,Houston,41,100,Texas
+203144,Alexey,Shved,aleshv,New York,26,0,New York
+203146,Maalik,Wayns,maaway,Philadelphia,14,43,Pennsylvania
+203147,Chris,Smith,chrsmi,New York,44,0,New York
+203148,Brian,Roberts,brirob,New Orleans,42,14,Louisiana
+203149,Micheal,Eric,miceri,Cleveland,36,0,Ohio
+203153,Reeves,Nelson,reenel,Los Angeles,28,50,California
+203154,Greg,Somogyi,gresom,Los Angeles,16,25,California
+203155,Oscar,Bellfield,oscbel,New York,37,0,New York
+203156,Henry,Sims,hensim,Philadelphia,36,44,Pennsylvania
+203157,John,Shurna,johshu,New York,30,0,New York
+203158,Kevin,Jones,kevjon,New Orleans,16,0,Louisiana
+203160,Steven,Gray,stegra,Washington,29,17,District of Columbia
+203162,Ben,Hansbrough,benhan,Indiana,20,0,Pennsylvania
+203163,Carleton,Scott,carsco,Brooklyn,13,33,New York
+203174,Tyler,Wilkerson,tylwil,San Antonio,25,50,Texas
+203176,Kyle,Fogg,kylfog,Houston,31,50,Texas
+203178,Wesley,Witherspoon,weswit,San Antonio,17,50,Texas
+203180,Hank,Thorns,hantho,Los Angeles,25,100,California
+203183,Tony,Mitchell,tonmit,Milwaukee,22,0,Wisconsin
+203186,Willie,Reed,wilree,Miami,39,25,Florida
+203190,Micah,Downs,micdow,Boston,35,33,Massachusetts
+203191,Josh,Akognon,josako,Dallas,27,29,Texas
+203192,Demonte,Harper,demhar,Portland,32,0,Oregon
+203193,Dallas,Lauderdale,dallau,Charlotte,36,0,North Carolina
+203195,Michael,Dunigan,micdun,Memphis,15,0,Tennessee
+203196,Ronnie,Aguilar,ronagu,Los Angeles,44,50,California
+203198,Kevin,Anderson,kevand,Cleveland,25,33,Ohio
+203199,DeQuan,Jones,deqjon,Orlando,44,75,Florida
+203200,Justin,Holiday,jushol,Memphis,30,18,Tennessee
+203201,Mustapha,Farrakhan,musfar,Milwaukee,14,0,Wisconsin
+203203,Chris,Wright,chrwri,New Orleans,19,0,Louisiana
+203204,Devin,Searcy,devsea,Philadelphia,20,33,Pennsylvania
+203206,Ryan,Allen,ryaall,Chicago,44,0,Illinois
+203210,JaMychal,Green,jamgre,Memphis,42,75,Tennessee
+203262,Mac,Koshwal,mackos,Philadelphia,15,33,Pennsylvania
+203263,James,Nunnally,jamnun,Philadelphia,42,100,Pennsylvania
+203268,Jorge,Gutierrez,jorgut,Brooklyn,23,67,New York
+203315,Toure',Murry,toumur,New York,36,0,New York
+203317,Tim,Ohlbrecht,timohl,Houston,14,0,Texas
+203318,Glen,Rice,gleric,Washington,35,33,District of Columbia
+203327,Daniel,Nwaelele,dannwa,San Antonio,22,100,Texas
+203382,Aron,Baynes,arobay,San Antonio,26,83,Texas
+203457,Nerlens,Noel,nernoe,Dallas,21,50,Texas
+203458,Alex,Len,alelen,Phoenix,17,22,Arizona
+203460,Andre,Roberson,androb,Oklahoma City,21,50,Oklahoma
+203461,Anthony,Bennett,antben,Cleveland,35,25,Ohio
+203462,Archie,Goodwin,arcgoo,Phoenix,25,25,Arizona
+203463,Ben,McLemore,benmcl,Houston,31,17,Texas
+203464,Brandon,Paul,brapau,San Antonio,20,100,Texas
+203466,CJ,Leslie,cjles,New York,34,50,New York
+203467,Carrick,Felix,carfel,Cleveland,16,67,Ohio
+203468,CJ,McCollum,cjmcc,New Orleans,13,44,Louisiana
+203469,Cody,Zeller,codzel,Charlotte,36,43,North Carolina
+203471,Dennis,Schroder,densch,Atlanta,20,35,Georgia
+203472,Deshaun,Thomas,destho,San Antonio,39,0,Texas
+203473,Dewayne,Dedmon,dewded,San Antonio,33,75,Texas
+203474,DJ,Stephens,djste,Memphis,13,50,Tennessee
+203475,Erick,Green,erigre,Denver,31,25,Colorado
+203476,Gorgui,Dieng,gordie,Memphis,40,43,Tennessee
+203477,Isaiah,Canaan,isacan,Chicago,34,50,Illinois
+203479,Jamaal,Franklin,jamfra,Denver,21,50,Colorado
+203480,James,Southerland,jamsou,Portland,16,0,Oregon
+203482,Kelly,Olynyk,keloly,Detroit,26,17,Michigan
+203483,Kenny,Kadji,kenkad,Cleveland,21,0,Ohio
+203484,Kentavious,Caldwell-Pope,kencal,Los Angeles,37,20,California
+203485,Lorenzo,Brown,lorbro,Philadelphia,40,25,Pennsylvania
+203486,Mason,Plumlee,masplu,Detroit,32,64,Michigan
+203487,Michael,Carter-Williams,miccar,Milwaukee,36,42,Wisconsin
+203488,Mike,Muscala,mikmus,Los Angeles,43,50,California
+203489,Nate,Wolters,natwol,Milwaukee,27,20,Wisconsin
+203490,Otto,Porter,ottpor,Washington,16,62,District of Columbia
+203491,Peyton,Siva,peysiv,Detroit,21,33,Michigan
+203492,Ray,McCallum,raymcc,Memphis,30,40,Tennessee
+203493,Reggie,Bullock,regbul,New York,13,55,New York
+203494,Richard,Howell,richow,Portland,34,0,Oregon
+203495,Ricky,Ledo,ricled,Dallas,37,27,Texas
+203496,Robert,Covington,robcov,Philadelphia,18,31,Pennsylvania
+203499,Shane,Larkin,shalar,New York,33,40,New York
+203500,Steven,Adams,steada,Oklahoma City,35,11,Oklahoma
+203501,Tim,Hardaway,timhar,Dallas,28,44,Texas
+203502,Tony,Mitchell,tonmit,Detroit,24,0,Michigan
+203503,Tony,Snell,tonsne,Chicago,19,25,Illinois
+203504,Trey,Burke,trebur,New York,28,23,New York
+203505,Vander,Blue,vanblu,Philadelphia,26,33,Pennsylvania
+203506,Victor,Oladipo,vicola,Oklahoma City,25,67,Oklahoma
+203507,Giannis,Antetokounmpo,giaant,Milwaukee,36,47,Wisconsin
+203508,Sergey,Karasev,serkar,Cleveland,33,100,Ohio
+203509,Myck,Kabongo,myckab,San Antonio,42,100,Texas
+203510,Pierre,Jackson,piejac,Dallas,31,44,Texas
+203512,Lucas,Nogueira,lucnog,Toronto,13,50,Ohio
+203515,Phil,Pressey,phipre,Boston,26,50,Massachusetts
+203516,James,Ennis,jamenn,Miami,22,83,Florida
+203518,Alex,Abrines,aleabr,Oklahoma City,21,38,Oklahoma
+203519,Adonis,Thomas,adotho,Philadelphia,21,50,Pennsylvania
+203520,Livio,Jean-Charles,livjea,San Antonio,37,0,Texas
+203521,Matthew,Dellavedova,matdel,Cleveland,39,67,Ohio
+203524,Solomon,Hill,solhil,Atlanta,18,43,Georgia
+203526,Raul,Neto,raunet,Washington,14,0,District of Columbia
+203527,Ryan,Kelly,ryakel,Los Angeles,30,33,California
+203528,Romero,Osby,romosb,Orlando,28,67,Florida
+203529,Arsalan,Kazemi,arskaz,Atlanta,26,0,Georgia
+203530,Joffrey,Lauvergne,joflau,San Antonio,32,67,Texas
+203539,Gal,Mekel,galmek,Dallas,17,60,Texas
+203540,Gigi,Datome,gigdat,Boston,30,67,Massachusetts
+203543,Vitor,Faverani,vitfav,Boston,38,100,Massachusetts
+203544,Pero,Antic,perant,Atlanta,13,33,Georgia
+203545,Miroslav,Raduljica,mirrad,Milwaukee,36,25,Wisconsin
+203547,Eric,Griffin,erigri,Dallas,32,0,Texas
+203548,Elias,Harris,elihar,Los Angeles,42,0,California
+203552,Seth,Curry,setcur,Portland,22,60,Oregon
+203556,Trent,Lockett,treloc,Sacramento,17,100,California
+203558,David,Lighty,davlig,Atlanta,21,0,Georgia
+203560,E.J.,Singler,e.jsin,Toronto,29,0,Ohio
+203561,Brandon,Davies,bradav,Philadelphia,44,0,Pennsylvania
+203564,Kalin,Lucas,kalluc,Detroit,44,0,Michigan
+203565,Patrick,Christopher,patchr,Memphis,16,50,Tennessee
+203566,Mickey,McConnell,micmcc,Dallas,15,0,Texas
+203568,Damen,Bell-Holter,dambel,Boston,21,0,Massachusetts
+203569,Chris,Babb,chrbab,Boston,29,40,Massachusetts
+203576,Rodney,Williams,rodwil,Philadelphia,26,0,Pennsylvania
+203577,Carlos,Morais,carmor,Toronto,20,50,Ohio
+203579,Khalif,Wyatt,khawya,Philadelphia,36,40,Pennsylvania
+203580,Larry,Drew,lardre,Miami,36,0,Florida
+203583,Abdul,Gaddy,abdgad,Oklahoma City,26,0,Oklahoma
+203584,Troy,Daniels,trodan,Phoenix,30,25,Arizona
+203585,Rodney,McGruder,rodmcg,Miami,36,29,Florida
+203586,Charlie,Westbrook,chawes,Miami,22,14,Florida
+203587,Courtney,Fells,coufel,San Antonio,33,67,Texas
+203588,Michael,Lee,miclee,Cleveland,13,0,Ohio
+203589,Olek,Czyz,oleczy,Milwaukee,16,100,Wisconsin
+203590,Trey,McKinney-Jones,tremck,Milwaukee,32,0,Wisconsin
+203613,Jonathon,Simmons,jonsim,San Antonio,20,67,Texas
+203629,Garlon,Green,gargre,New Orleans,14,25,Louisiana
+203648,Thanasis,Antetokounmpo,thaant,Milwaukee,18,25,Wisconsin
+203658,Norvel,Pelle,norpel,Philadelphia,23,100,Pennsylvania
+203687,Reggie,Hearn,reghea,Detroit,23,0,Michigan
+203705,Josh,Magette,josmag,Atlanta,21,50,Georgia
+203798,PJ,Hairston,pjhai,Memphis,31,20,Tennessee
+203805,Will,Cherry,wilche,Cleveland,21,25,Ohio
+203810,Casper,Ware,caswar,Philadelphia,18,25,Pennsylvania
+203816,Scotty,Hopson,scohop,Oklahoma City,19,0,Oklahoma
+203893,Russ,Smith,russmi,New Orleans,33,57,Louisiana
+203894,Shabazz,Napier,shanap,Orlando,21,80,Florida
+203895,Jordan,McRae,jormcr,Cleveland,24,40,Ohio
+203897,Zach,LaVine,zaclav,Chicago,33,39,Illinois
+203898,Tyler,Ennis,tylenn,Los Angeles,19,60,California
+203900,Markel,Brown,marbro,Brooklyn,37,0,New York
+203901,Elfrid,Payton,elfpay,Orlando,15,71,Florida
+203902,Semaj,Christon,semchr,Oklahoma City,26,20,Oklahoma
+203906,Devyn,Marble,devmar,Orlando,37,100,Florida
+203909,KJ,McDaniels,kjmcd,Houston,42,0,Texas
+203910,Nick,Johnson,nicjoh,Orlando,20,0,Florida
+203912,C.J.,Wilcox,c.jwil,Orlando,17,0,Florida
+203913,Jabari,Brown,jabbro,Los Angeles,19,43,California
+203914,Gary,Harris,garhar,Denver,26,20,Colorado
+203915,Spencer,Dinwiddie,spedin,Brooklyn,20,21,New York
+203917,Nik,Stauskas,niksta,Philadelphia,27,44,Pennsylvania
+203918,Rodney,Hood,rodhoo,Portland,21,40,Oregon
+203919,Jordan,Adams,jorada,Memphis,27,43,Tennessee
+203920,Khem,Birch,khebir,Toronto,36,83,Ohio
+203921,Cleanthony,Early,cleear,New York,16,14,New York
+203922,Glenn,Robinson,glerob,Indiana,30,43,Pennsylvania
+203923,James,Young,jamyou,Boston,43,43,Massachusetts
+203924,Jerami,Grant,jergra,Philadelphia,25,42,Pennsylvania
+203925,Joe,Harris,joehar,Cleveland,13,33,Ohio
+203926,Doug,McDermott,doumcd,Chicago,23,20,Illinois
+203927,CJ,Fair,cjfai,Indiana,23,0,Pennsylvania
+203928,Cory,Jefferson,corjef,Brooklyn,41,43,New York
+203929,Melvin,Ejim,meleji,Orlando,31,100,Florida
+203930,Sean,Kilpatrick,seakil,Brooklyn,25,46,New York
+203932,Aaron,Gordon,aargor,Denver,40,0,Colorado
+203933,T.J.,Warren,t.jwar,Phoenix,26,53,Arizona
+203934,Lamar,Patterson,lampat,Sacramento,25,33,California
+203935,Marcus,Smart,marsma,Boston,26,46,Massachusetts
+203937,Kyle,Anderson,kyland,San Antonio,31,75,Texas
+203939,Dwight,Powell,dwipow,Dallas,41,75,Texas
+203940,Adreian,Payne,adrpay,Atlanta,21,25,Georgia
+203942,Patric,Young,patyou,New Orleans,44,100,Louisiana
+203943,Noah,Vonleh,noavon,Portland,41,29,Oregon
+203944,Julius,Randle,julran,New York,18,50,New York
+203945,Alex,Kirk,alekir,Cleveland,30,33,Ohio
+203946,Cameron,Bairstow,cambai,Chicago,17,33,Illinois
+203947,Jordan,Bachynski,jorbac,Detroit,32,100,Michigan
+203948,Johnny,O'Bryant,joho'b,Milwaukee,37,60,Wisconsin
+203950,Jarnell,Stokes,jarsto,Memphis,22,40,Tennessee
+203951,Keith,Appling,keiapp,Los Angeles,24,33,California
+203953,Jabari,Parker,jabpar,Milwaukee,18,58,Wisconsin
+203954,Joel,Embiid,joeemb,Philadelphia,27,35,Pennsylvania
+203955,Bryce,Cotton,brycot,San Antonio,25,57,Texas
+203956,Mitch,McGary,mitmcg,Oklahoma City,13,46,Oklahoma
+203958,Andre,Dawkins,anddaw,Boston,14,50,Massachusetts
+203959,Scottie,Wilbekin,scowil,Philadelphia,13,29,Pennsylvania
+203960,JaKarr,Sampson,jaksam,Philadelphia,21,20,Pennsylvania
+203961,Eric,Moreland,erimor,Sacramento,29,100,California
+203962,Josh,Huestis,joshue,Oklahoma City,27,25,Oklahoma
+203963,Shayne,Whittington,shawhi,Indiana,27,67,Pennsylvania
+203964,Roscoe,Smith,rossmi,Los Angeles,26,50,California
+203965,Justin,Cobbs,juscob,Charlotte,28,0,North Carolina
+203966,Jamil,Wilson,jamwil,Dallas,28,0,Texas
+203967,Dario,Saric,darsar,Phoenix,20,46,Arizona
+203968,Jerrelle,Benimon,jerben,Denver,29,50,Colorado
+203990,Drew,Crawford,drecra,Toronto,33,75,Ohio
+203991,Clint,Capela,clicap,Houston,32,73,Texas
+203992,Bogdan,Bogdanovic,bogbog,Sacramento,40,47,California
+203994,Jusuf,Nurkic,jusnur,Portland,22,73,Oregon
+203996,Damien,Inglis,daming,Milwaukee,38,0,Wisconsin
+203998,Bruno,Caboclo,brucab,Memphis,34,50,Tennessee
+203999,Nikola,Jokic,nikjok,Denver,41,62,Colorado
+204001,Kristaps,Porzingis,kripor,Dallas,23,25,Texas
+204002,Edy,Tavares,edytav,Atlanta,36,0,Georgia
+204014,Damjan,Rudez,damrud,Orlando,40,33,Florida
+204020,Tyler,Johnson,tyljoh,Miami,23,17,Florida
+204021,Sim,Bhullar,simbhu,Sacramento,36,0,California
+204022,Jack,Cooley,jaccoo,Cleveland,44,100,Ohio
+204024,Christian,Watford,chrwat,Boston,15,0,Massachusetts
+204025,Tim,Frazier,timfra,Milwaukee,34,62,Wisconsin
+204027,Josh,Davis,josdav,San Antonio,29,0,Texas
+204028,Tarik,Black,tarbla,Los Angeles,13,40,California
+204033,David,Wear,davwea,Sacramento,17,0,California
+204034,Luke,Hancock,lukhan,Memphis,20,100,Tennessee
+204037,Travis,Wear,trawea,Los Angeles,29,17,California
+204038,Langston,Galloway,langal,New Orleans,23,20,Louisiana
+204039,Chris,Crawford,chrcra,Cleveland,22,50,Ohio
+204040,Ronald,Roberts,ronrob,Toronto,25,0,Ohio
+204041,Brian,Qvale,briqva,Charlotte,15,0,North Carolina
+204044,Orlando,Sanchez,orlsan,New York,38,0,New York
+204053,Shawn,Jones,shajon,Miami,40,100,Florida
+204054,Zoran,Dragic,zordra,Miami,21,53,Florida
+204061,Joe,Jackson,joejac,Phoenix,20,33,Arizona
+204062,Casey,Prather,caspra,Phoenix,35,0,Arizona
+204064,Akil,Mitchell,akimit,Houston,23,0,Texas
+204066,John,Holland,johhol,Boston,32,50,Massachusetts
+204067,Jarell,Eddie,jaredd,Chicago,43,0,Illinois
+204071,Stephen,Holt,stehol,Cleveland,42,100,Ohio
+204075,Talib,Zanna,talzan,Oklahoma City,24,100,Oklahoma
+204076,Richard,Solomon,ricsol,Oklahoma City,37,75,Oklahoma
+204077,Michael,Jenkins,micjen,Oklahoma City,41,33,Oklahoma
+204079,Drew,Gordon,dregor,Philadelphia,18,67,Pennsylvania
+204098,Xavier,Munford,xavmun,Memphis,44,50,Tennessee
+204136,Marcus,Simmons,marsim,Chicago,15,0,Illinois
+204179,Omari,Johnson,omajoh,Indiana,17,0,Pennsylvania
+204189,Jaron,Johnson,jarjoh,Washington,16,33,District of Columbia
+204192,Raphiael,Putney,rapput,Miami,24,0,Florida
+204222,Greg,Whittington,grewhi,Miami,40,67,Florida
+204456,T.J.,McConnell,t.jmcc,Indiana,26,43,Pennsylvania
+1626143,Jahlil,Okafor,jahoka,New Orleans,27,50,Louisiana
+1626144,Emmanuel,Mudiay,emmmud,New York,34,42,New York
+1626146,Cliff,Alexander,cliale,New Orleans,39,67,Louisiana
+1626147,Justin,Anderson,jusand,Brooklyn,42,7,New York
+1626148,Anthony,Brown,antbro,Los Angeles,41,100,California
+1626150,Andrew,Harrison,andhar,Cleveland,19,17,Ohio
+1626151,Aaron,Harrison,aarhar,Charlotte,40,0,North Carolina
+1626153,Delon,Wright,delwri,Detroit,21,40,Michigan
+1626154,RJ,Hunter,rjhun,Boston,15,0,Massachusetts
+1626155,Sam,Dekker,samdek,Houston,38,40,Texas
+1626156,D'Angelo,Russell,d'arus,Brooklyn,30,43,New York
+1626158,Richaun,Holmes,richol,Phoenix,40,25,Arizona
+1626159,Justise,Winslow,juswin,Miami,39,29,Florida
+1626160,JP,Tokoto,jptok,Philadelphia,17,0,Pennsylvania
+1626162,Kelly,Oubre,keloub,Phoenix,43,25,Arizona
+1626163,Frank,Kaminsky,frakam,Phoenix,34,17,Arizona
+1626164,Devin,Booker,devboo,Phoenix,30,83,Arizona
+1626165,Brandon,Ashley,braash,Dallas,17,20,Texas
+1626166,Cameron,Payne,campay,Chicago,13,20,Illinois
+1626167,Myles,Turner,myltur,Indiana,29,50,Pennsylvania
+1626168,Trey,Lyles,trelyl,Detroit,20,62,Michigan
+1626169,Stanley,Johnson,stajoh,Detroit,35,40,Michigan
+1626170,Jerian,Grant,jergra,Orlando,29,46,Florida
+1626171,Bobby,Portis,bobpor,Milwaukee,20,71,Wisconsin
+1626173,Rashad,Vaughn,rasvau,Milwaukee,31,14,Wisconsin
+1626174,Christian,Wood,chrwoo,Philadelphia,28,25,Pennsylvania
+1626175,Jordan,Mickey,jormic,Boston,29,0,Massachusetts
+1626176,Rakeem,Christmas,rakchr,Indiana,18,33,Pennsylvania
+1626177,Dakari,Johnson,dakjoh,Oklahoma City,40,60,Oklahoma
+1626178,Rondae,Hollis-Jefferson,ronhol,Brooklyn,44,36,New York
+1626179,Terry,Rozier,terroz,Charlotte,14,50,North Carolina
+1626181,Norman,Powell,norpow,Portland,14,47,Oregon
+1626182,Jonathan,Holmes,jonhol,Los Angeles,14,25,California
+1626184,Chasson,Randle,charan,Orlando,43,50,Florida
+1626185,Jarell,Martin,jarmar,Memphis,44,43,Tennessee
+1626186,Corey,Hawkins,corhaw,Miami,18,100,Florida
+1626187,Michael,Frazier,micfra,Houston,21,0,Texas
+1626188,Quinn,Cook,quicoo,Portland,26,33,Oregon
+1626189,Terran,Petteway,terpet,Atlanta,28,0,Georgia
+1626191,Chris,McCullough,chrmcc,Brooklyn,17,50,New York
+1626192,Pat,Connaughton,patcon,Milwaukee,22,38,Wisconsin
+1626193,Robert,Upshaw,robups,Los Angeles,30,25,California
+1626195,Willy,Hernangomez,wilher,Charlotte,41,44,North Carolina
+1626196,Josh,Richardson,josric,Boston,29,55,Massachusetts
+1626199,Darrun,Hilliard,darhil,Detroit,29,60,Michigan
+1626201,Wesley,Saunders,wessau,New York,32,0,New York
+1626202,Joe,Young,joeyou,Indiana,28,25,Pennsylvania
+1626203,Treveon,Graham,tregra,Brooklyn,23,100,New York
+1626204,Larry,Nance,larnan,Los Angeles,26,67,California
+1626205,Vincent,Hunter,vinhun,Sacramento,33,33,California
+1626207,Ryan,Boatright,ryaboa,Brooklyn,32,50,New York
+1626208,Keifer,Sykes,keisyk,Indiana,20,0,Pennsylvania
+1626209,Mario,Hezonja,marhez,New York,30,20,New York
+1626210,Alan,Williams,alawil,Phoenix,38,40,Arizona
+1626214,Bryce,Dejean-Jones,brydej,New Orleans,19,43,Louisiana
+1626217,Chris,Walker,chrwal,Houston,34,50,Texas
+1626224,Cedi,Osman,cedosm,Cleveland,29,38,Ohio
+1626242,Luis,Montero,luimon,Miami,19,40,Florida
+1626245,Cristiano,Felicio,crifel,Chicago,27,25,Illinois
+1626246,Boban,Marjanovic,bobmar,Dallas,41,71,Texas
+1626251,Duje,Dukan,dujduk,Sacramento,27,50,California
+1626252,Michale,Kyser,mickys,Toronto,26,0,Ohio
+1626253,Axel,Toupane,axetou,Denver,44,43,Colorado
+1626254,Maurice,Ndour,maundo,Dallas,25,50,Texas
+1626257,Salah,Mejri,salmej,Dallas,24,50,Texas
+1626258,Corey,Walden,corwal,Boston,37,0,Massachusetts
+1626259,Malcolm,Miller,malmil,Toronto,23,67,Ohio
+1626260,Levi,Randolph,levran,Cleveland,13,25,Ohio
+1626261,Michael,Holyfield,michol,Memphis,30,0,Tennessee
+1626262,Coty,Clarke,cotcla,Boston,24,33,Massachusetts
+1626263,Shannon,Scott,shasco,Toronto,42,0,Ohio
+1626269,Denzel,Livingston,denliv,Houston,22,60,Texas
+1626270,Will,Cummings,wilcum,Houston,28,20,Texas
+1626271,Kyle,Casey,kylcas,Phoenix,40,0,Arizona
+1626272,Lazeric,Jones,lazjon,Memphis,35,80,Tennessee
+1626273,Marcelo,Huertas,marhue,Los Angeles,27,43,California
+1626275,Travis,Trice,tratri,New York,41,0,New York
+1626276,Darion,Atkins,daratk,New York,38,0,New York
+1626279,Jason,Washburn,jaswas,Charlotte,21,0,North Carolina
+1626280,Sam,Thompson,samtho,Charlotte,32,0,North Carolina
+1626281,Jon,Horford,jonhor,Milwaukee,33,0,Wisconsin
+1626288,Joshua,Smith,jossmi,Houston,15,67,Texas
+1626289,Marshall,Henderson,marhen,Sacramento,16,0,California
+1626290,Corey,Webster,corweb,New Orleans,31,50,Louisiana
+1626293,Edgar,Sosa,edgsos,Atlanta,28,0,Georgia
+1626294,Jaleel,Roberts,jalrob,Milwaukee,38,100,Wisconsin
+1626295,Nnanna,Egwu,nnaegw,Orlando,18,50,Florida
+1626296,Jordan,Sibert,jorsib,Orlando,18,17,Florida
+1626304,Youssou,Ndoye,youndo,San Antonio,31,0,Texas
+1626305,Nick,Minnerath,nicmin,Cleveland,21,60,Ohio
+1626643,Jacob,Pullen,jacpul,Philadelphia,37,50,Pennsylvania
+1626780,Jonathan,Gibson,jongib,Dallas,25,33,Texas
+1627098,Malcolm,Delaney,maldel,Atlanta,37,20,Georgia
+1627215,Walt,Lemon,wallem,New Orleans,31,100,Louisiana
+1627258,Sampson,Carter,samcar,Memphis,19,0,Tennessee
+1627292,Kadeem,Jack,kadjac,Indiana,41,0,Pennsylvania
+1627322,Bo,McCalebb,bomcc,New Orleans,16,33,Louisiana
+1627362,Briante,Weber,briweb,Houston,35,0,Texas
+1627395,Julian,Washburn,julwas,Memphis,24,100,Tennessee
+1627732,Ben,Simmons,bensim,Philadelphia,25,73,Pennsylvania
+1627733,Dragan,Bender,draben,Milwaukee,20,100,Wisconsin
+1627734,Domantas,Sabonis,domsab,Oklahoma City,14,100,Oklahoma
+1627735,Wade,Baldwin,wadbal,Memphis,37,38,Tennessee
+1627736,Malik,Beasley,malbea,Denver,33,40,Colorado
+1627737,Marquese,Chriss,marchr,Phoenix,40,67,Arizona
+1627738,Deyonta,Davis,deydav,Memphis,25,100,Tennessee
+1627740,Henry,Ellenson,henell,Detroit,37,20,Michigan
+1627741,Buddy,Hield,budhie,Sacramento,13,32,California
+1627742,Brandon,Ingram,braing,New Orleans,43,56,Louisiana
+1627743,Demetrius,Jackson,demjac,Boston,40,33,Massachusetts
+1627745,Damian,Jones,damjon,Atlanta,34,100,Georgia
+1627746,Skal,Labissiere,skalab,Sacramento,27,50,California
+1627747,Caris,LeVert,carlev,Brooklyn,31,36,New York
+1627748,Thon,Maker,thomak,Milwaukee,40,25,Wisconsin
+1627749,Dejounte,Murray,dejmur,San Antonio,33,40,Texas
+1627750,Jamal,Murray,jammur,Denver,33,62,Colorado
+1627751,Jakob,Poeltl,jakpoe,San Antonio,17,33,Texas
+1627752,Taurean,Prince,taupri,Brooklyn,14,36,New York
+1627753,Zhou,Qi,zhoqi,Houston,43,0,Texas
+1627755,Tyler,Ulis,tyluli,Phoenix,23,33,Arizona
+1627756,Denzel,Valentine,denval,Chicago,22,35,Illinois
+1627757,Stephen,Zimmerman,stezim,Los Angeles,33,100,California
+1627758,Ron,Baker,ronbak,New York,22,25,New York
+1627759,Jaylen,Brown,jaybro,Boston,44,38,Massachusetts
+1627760,Cat,Barber,catbar,Atlanta,13,0,Georgia
+1627761,DeAndre',Bembry,deabem,Milwaukee,17,0,Wisconsin
+1627763,Malcolm,Brogdon,malbro,Indiana,25,45,Pennsylvania
+1627766,Isaiah,Cousins,isacou,Sacramento,16,0,California
+1627767,Cheick,Diallo,chedia,Phoenix,20,50,Arizona
+1627768,Perry,Ellis,perell,Charlotte,18,0,North Carolina
+1627770,Kay,Felder,kayfel,Detroit,28,50,Michigan
+1627771,Michael,Gbinije,micgbi,Detroit,26,50,Michigan
+1627772,Daniel,Hamilton,danham,Oklahoma City,29,29,Oklahoma
+1627773,AJ,Hammons,ajham,Dallas,35,80,Texas
+1627776,Isaiah,Miles,isamil,Philadelphia,35,0,Pennsylvania
+1627778,Chinanu,Onuaku,chionu,Portland,28,100,Oregon
+1627779,Marcus,Paige,marpai,Charlotte,17,0,North Carolina
+1627780,Gary,Payton,garpay,Milwaukee,18,25,Wisconsin
+1627781,Malachi,Richardson,malric,Sacramento,22,43,California
+1627782,Wayne,Selden,waysel,Memphis,43,11,Tennessee
+1627783,Pascal,Siakam,passia,Toronto,14,25,Ohio
+1627784,Jarrod,Uthoff,jaruth,Dallas,15,50,Texas
+1627785,Isaiah,Whitehead,isawhi,Brooklyn,42,43,New York
+1627786,Troy,Williams,trowil,Sacramento,44,60,California
+1627787,Kyle,Wiltjer,kylwil,Houston,21,0,Texas
+1627788,Furkan,Korkmaz,furkor,Philadelphia,28,100,Pennsylvania
+1627789,Timothe,Luwawu-Cabarrot,timluw,Oklahoma City,38,0,Oklahoma
+1627790,Ante,Zizic,antziz,Cleveland,25,36,Ohio
+1627791,Ben,Bentil,benben,Boston,34,33,Massachusetts
+1627812,Yogi,Ferrell,yogfer,Dallas,19,38,Texas
+1627815,Sheldon,Mac,shemac,Washington,18,0,District of Columbia
+1627816,Alex,Poythress,alepoy,Atlanta,15,33,Georgia
+1627817,Tim,Quarterman,timqua,Portland,20,36,Oregon
+1627818,Kaleb,Tarczewski,kaltar,Oklahoma City,42,67,Oklahoma
+1627819,Isaiah,Taylor,isatay,Atlanta,42,67,Georgia
+1627821,James,Webb,jamweb,Brooklyn,31,0,New York
+1627822,Petr,Cornelie,petcor,Denver,29,100,Colorado
+1627824,Guerschon,Yabusele,gueyab,Boston,43,33,Massachusetts
+1627825,Rade,Zagorac,radzag,Memphis,17,100,Tennessee
+1627827,Dorian,Finney-Smith,dorfin,Dallas,26,36,Texas
+1627829,Julian,Jacobs,juljac,Los Angeles,23,50,California
+1627832,Fred,VanVleet,frevan,Toronto,23,47,Ohio
+1627834,Georgios,Papagiannis,geopap,Sacramento,21,20,California
+1627835,Paul,Zipser,pauzip,Chicago,14,60,Illinois
+1627841,Stefan,Jankovic,stejan,Miami,14,0,Florida
+1627843,Thomas,Walkup,thowal,Chicago,33,0,Illinois
+1627846,Abdel,Nader,abdnad,Boston,20,0,Massachusetts
+1627848,Shawn,Long,shalon,Philadelphia,44,31,Pennsylvania
+1627849,Daniel,Ochefu,danoch,Washington,39,60,District of Columbia
+1627850,Marshall,Plumlee,marplu,New York,36,64,New York
+1627851,Mindaugas,Kuzminskas,minkuz,New York,30,33,New York
+1627852,Nicolas,Brussino,nicbru,Atlanta,29,0,Georgia
+1627853,Ryan,Arcidiacono,ryaarc,Chicago,35,43,Illinois
+1627854,Bryn,Forbes,bryfor,San Antonio,27,0,Texas
+1627855,Okaro,White,okawhi,Miami,43,100,Florida
+1627856,Matt,Costello,matcos,Atlanta,36,20,Georgia
+1627858,Kyle,Collinsworth,kylcol,Dallas,28,50,Texas
+1627861,Mike,Tobey,miktob,Charlotte,18,33,North Carolina
+1627862,Beau,Beech,beabee,Brooklyn,22,33,New York
+1627863,Danuel,House,danhou,Houston,22,57,Texas
+1627865,Egidijus,Mockevicius,egimoc,Brooklyn,16,0,New York
+1627866,Jameel,Warney,jamwar,Dallas,42,50,Texas
+1627867,Keith,Hornsby,keihor,Dallas,18,0,Texas
+1627868,Patricio,Garino,patgar,San Antonio,15,60,Texas
+1627873,Shawn,Dawson,shadaw,New Orleans,16,0,Louisiana
+1627878,Nick,Zeisloft,niczei,Indiana,38,0,Pennsylvania
+1627879,Nicolas,Laprovittola,niclap,San Antonio,41,0,Texas
+1627880,Quincy,Ford,quifor,New Orleans,23,100,Louisiana
+1627881,Rasheed,Sulaimon,rassul,Charlotte,29,25,North Carolina
+1627882,Andrew,Andrews,andand,Charlotte,16,25,North Carolina
+1627883,Jalen,Jones,jaljon,Cleveland,25,0,Ohio
+1627884,Derrick,Jones,derjon,Miami,15,0,Florida
+1627885,Shaquille,Harrison,shahar,Chicago,44,62,Illinois
+1627886,D'Vauntes,Smith-Rivera,d'vsmi,Chicago,28,0,Illinois
+1627887,Trey,Freeman,trefre,Detroit,27,0,Michigan
+1627888,Nikola,Jovanovic,nikjov,Detroit,40,0,Michigan
+1627936,Alex,Caruso,alecar,Los Angeles,17,33,California
+1627938,J.J.,Avila,j.javi,Chicago,13,100,Illinois
+1627982,Josh,Gray,josgra,Phoenix,40,43,Arizona
+1627988,Myke,Henry,mykhen,Memphis,16,44,Tennessee
+1628021,David,Nwaba,davnwa,Cleveland,22,83,Ohio
+1628035,Alfonzo,McKinnie,alfmck,Toronto,25,33,Ohio
+1628041,Vashil,Fernandez,vasfer,Miami,20,0,Florida
+1628070,Jordan,Loyd,jorloy,Toronto,33,20,Ohio
+1628238,Paris,Bass,parbas,Phoenix,40,0,Arizona
+1628249,Mitchell,Creek,mitcre,Brooklyn,30,0,New York
+1628365,Markelle,Fultz,marful,Orlando,20,67,Florida
+1628366,Lonzo,Ball,lonbal,New Orleans,42,40,Louisiana
+1628367,Josh,Jackson,josjac,Detroit,43,55,Michigan
+1628368,De'Aaron,Fox,de'fox,Sacramento,13,30,California
+1628369,Jayson,Tatum,jaytat,Boston,22,48,Massachusetts
+1628370,Malik,Monk,malmon,Charlotte,42,47,North Carolina
+1628371,Jonathan,Isaac,jonisa,Orlando,40,40,Florida
+1628372,Dennis,Smith,densmi,New York,20,44,New York
+1628373,Frank,Ntilikina,franti,New York,39,100,New York
+1628374,Lauri,Markkanen,laumar,Chicago,16,55,Illinois
+1628380,Zach,Collins,zaccol,Portland,13,57,Oregon
+1628381,John,Collins,johcol,Atlanta,32,36,Georgia
+1628382,Justin,Jackson,jusjac,Sacramento,29,60,California
+1628383,Justin,Patton,juspat,Oklahoma City,15,33,Oklahoma
+1628384,OG,Anunoby,oganu,Toronto,18,100,Ohio
+1628385,Harry,Giles,hargil,Sacramento,35,29,California
+1628386,Jarrett,Allen,jarall,Brooklyn,30,88,New York
+1628387,Ike,Anigbogu,ikeani,Indiana,26,67,Pennsylvania
+1628388,TJ,Leaf,tjlea,Indiana,22,63,Pennsylvania
+1628389,Bam,Adebayo,bamade,Miami,29,67,Florida
+1628390,Terrance,Ferguson,terfer,Oklahoma City,13,0,Oklahoma
+1628391,D.J.,Wilson,d.jwil,Milwaukee,33,75,Wisconsin
+1628394,Anzejs,Pasecniks,anzpas,Washington,19,86,District of Columbia
+1628395,Jordan,Bell,jorbel,Memphis,41,100,Tennessee
+1628396,Tony,Bradley,tonbra,Oklahoma City,17,25,Oklahoma
+1628397,Ivan,Rabb,ivarab,Memphis,15,80,Tennessee
+1628398,Kyle,Kuzma,kylkuz,Los Angeles,19,12,California
+1628399,Tyler,Lydon,tyllyd,Denver,27,100,Colorado
+1628400,Semi,Ojeleye,semoje,Boston,41,57,Massachusetts
+1628401,Derrick,White,derwhi,San Antonio,40,12,Texas
+1628402,Frank,Jackson,frajac,Detroit,20,46,Michigan
+1628403,Caleb,Swanigan,calswa,Portland,13,40,Oregon
+1628404,Josh,Hart,joshar,Los Angeles,42,50,California
+1628405,Johnathan,Motley,johmot,Dallas,34,80,Texas
+1628407,Dwayne,Bacon,dwabac,Charlotte,38,0,North Carolina
+1628408,PJ,Dozier,pjdoz,Boston,30,60,Massachusetts
+1628409,Alec,Peters,alepet,Phoenix,33,0,Arizona
+1628410,Edmond,Sumner,edmsum,Indiana,28,75,Pennsylvania
+1628411,Wes,Iwundu,wesiwu,Orlando,34,33,Florida
+1628412,Frank,Mason,framas,Sacramento,40,17,California
+1628413,Jonah,Bolden,jonbol,Philadelphia,36,75,Pennsylvania
+1628415,Dillon,Brooks,dilbro,Memphis,31,57,Tennessee
+1628416,Tyler,Dorsey,tyldor,Atlanta,39,50,Georgia
+1628417,Jaron,Blossomgame,jarblo,Cleveland,27,100,Ohio
+1628418,Thomas,Bryant,thobry,Washington,29,50,District of Columbia
+1628419,Cameron,Oliver,camoli,Houston,38,50,Texas
+1628420,Monte,Morris,monmor,Denver,30,57,Colorado
+1628421,Devin,Robinson,devrob,Washington,37,33,District of Columbia
+1628422,Damyean,Dotson,damdot,Cleveland,19,60,Ohio
+1628424,Kobi,Simmons,kobsim,Memphis,35,50,Tennessee
+1628425,Sterling,Brown,stebro,Houston,29,17,Texas
+1628427,Vlatko,Cancar,vlacan,Denver,35,0,Colorado
+1628429,Charles,Cooke,chacoo,Miami,13,0,Florida
+1628431,V.J.,Beachem,v.jbea,Los Angeles,32,50,California
+1628432,Davon,Reed,davree,Phoenix,39,25,Arizona
+1628433,L.J.,Peak,l.jpea,Boston,36,100,Massachusetts
+1628436,Luke,Kornet,lukkor,Chicago,17,50,Illinois
+1628439,Isaiah,Hicks,isahic,New York,21,100,New York
+1628443,Kadeem,Allen,kadall,Boston,31,0,Massachusetts
+1628444,Jabari,Bird,jabbir,Boston,17,70,Massachusetts
+1628448,Kavell,Bigby-Williams,kavbig,New Orleans,43,100,Louisiana
+1628450,Eric,Mika,erimik,Sacramento,16,67,California
+1628451,Jacob,Wiley,jacwil,Brooklyn,14,0,New York
+1628452,Kennedy,Meeks,kenmee,Toronto,29,0,Ohio
+1628454,Mike,Young,mikyou,Washington,29,0,District of Columbia
+1628455,Mike,James,mikjam,Brooklyn,34,40,New York
+1628456,Jeremy,Morgan,jermor,Memphis,27,0,Tennessee
+1628460,Bronson,Koenig,brokoe,Chicago,13,0,Illinois
+1628463,Tyler,Cavanaugh,tylcav,Atlanta,28,60,Georgia
+1628464,Daniel,Theis,danthe,Boston,21,91,Massachusetts
+1628467,Maxi,Kleber,maxkle,Dallas,25,30,Texas
+1628469,Antonio,Blakeney,antbla,Chicago,39,83,Illinois
+1628470,Torrey,Craig,torcra,Phoenix,29,50,Arizona
+1628473,Yakuba,Ouattara,yakoua,Brooklyn,29,100,New York
+1628475,Matt,Williams,matwil,Miami,38,100,Florida
+1628476,Derrick,Walton,derwal,Chicago,32,60,Illinois
+1628477,Landry,Nnoko,lannno,Detroit,36,0,Michigan
+1628491,Derek,Willis,derwil,Detroit,34,50,Michigan
+1628492,Gian,Clavell,giacla,Dallas,40,0,Texas
+1628493,Mangok,Mathiang,manmat,Charlotte,39,100,North Carolina
+1628494,T.J.,Williams,t.jwil,Charlotte,22,0,North Carolina
+1628495,Milton,Doyle,mildoy,Brooklyn,28,25,New York
+1628496,Jeremy,Senglin,jersen,Brooklyn,39,100,New York
+1628499,Antonius,Cleveland,antcle,Dallas,18,62,Texas
+1628500,Ben,Moore,benmoo,Indiana,43,0,Pennsylvania
+1628502,Nigel,Hayes,nighay,New York,42,0,New York
+1628503,Jamel,Artis,jamart,Sacramento,44,60,California
+1628504,Xavier,Rathan-Mayes,xavrat,Memphis,20,40,Tennessee
+1628505,Troy,Caupain,trocau,Orlando,16,0,Florida
+1628506,London,Perrantes,lonper,Cleveland,29,100,Ohio
+1628510,Andrew,White,andwhi,Atlanta,28,75,Georgia
+1628511,James,Blackmon,jambla,Philadelphia,25,40,Pennsylvania
+1628512,Matt,Jones,matjon,Sacramento,21,0,California
+1628515,Isaiah,Briscoe,isabri,Portland,16,0,Oregon
+1628516,Terry,Henderson,terhen,Charlotte,27,25,North Carolina
+1628518,Amile,Jefferson,amijef,Orlando,24,33,Florida
+1628535,Jordan,Mathews,jormat,Atlanta,23,50,Georgia
+1628537,Jaylen,Morris,jaymor,Milwaukee,31,0,Wisconsin
+1628571,Erik,McCree,erimcc,Miami,35,33,Florida
+1628575,Jaylen,Johnson,jayjoh,Chicago,13,50,Illinois
+1628576,Bryce,Alford,bryalf,Oklahoma City,25,0,Oklahoma
+1628578,Amida,Brimah,amibri,Indiana,16,0,Pennsylvania
+1628591,Craig,Sword,craswo,Washington,29,0,District of Columbia
+1628605,Dusty,Hannahs,dushan,Memphis,16,29,Tennessee
+1628656,Billy,Garrett,bilgar,New York,40,40,New York
+1628677,Durand,Scott,dursco,Memphis,43,50,Tennessee
+1628679,Daniel,Dixon,dandix,Boston,42,0,Massachusetts
+1628681,Rodney,Purvis,rodpur,Orlando,14,67,Florida
+1628769,Tahjere,McCall,tahmcc,Brooklyn,39,67,New York
+1628778,Paul,Watson,pauwat,Toronto,17,0,Ohio
+1628935,Aaron,Jackson,aarjac,Houston,37,67,Texas
+1628959,Rawle,Alkins,rawalk,Chicago,30,0,Illinois
+1628961,Kostas,Antetokounmpo,kosant,Los Angeles,18,100,California
+1628963,Marvin,Bagley,marbag,Sacramento,41,50,California
+1628964,Mo,Bamba,mobam,Orlando,26,80,Florida
+1628966,Keita,Bates-Diop,keibat,San Antonio,30,33,Texas
+1628968,Brian,Bowen,bribow,Indiana,15,100,Pennsylvania
+1628969,Mikal,Bridges,mikbri,Phoenix,22,60,Arizona
+1628970,Miles,Bridges,milbri,Charlotte,43,80,North Carolina
+1628971,Bruce,Brown,brubro,Detroit,27,38,Michigan
+1628972,Troy,Brown,trobro,Chicago,36,86,Illinois
+1628973,Jalen,Brunson,jalbru,Dallas,21,33,Texas
+1628975,Jevon,Carter,jevcar,Phoenix,26,100,Arizona
+1628976,Wendell,Carter,wencar,Chicago,43,75,Illinois
+1628977,Hamidou,Diallo,hamdia,Oklahoma City,22,80,Oklahoma
+1628978,Donte,DiVincenzo,dondiv,Milwaukee,33,17,Wisconsin
+1628979,Trevon,Duval,treduv,Milwaukee,21,0,Wisconsin
+1628981,Bruno,Fernando,brufer,Atlanta,33,100,Georgia
+1628982,Melvin,Frazier,melfra,Orlando,32,0,Florida
+1628983,Shai,Gilgeous-Alexander,shagil,Oklahoma City,15,67,Oklahoma
+1628984,Devonte',Graham,devgra,Charlotte,15,44,North Carolina
+1628985,Devon,Hall,devhal,Oklahoma City,31,33,Oklahoma
+1628987,Kevin,Hervey,kevher,Oklahoma City,40,0,Oklahoma
+1628988,Aaron,Holiday,aarhol,Indiana,24,20,Pennsylvania
+1628989,Kevin,Huerter,kevhue,Atlanta,43,43,Georgia
+1628990,Chandler,Hutchison,chahut,Washington,18,40,District of Columbia
+1628991,Jaren,Jackson,jarjac,Memphis,14,43,Tennessee
+1628993,Alize,Johnson,alijoh,Indiana,43,33,Pennsylvania
+1628994,George,King,geokin,Phoenix,33,33,Arizona
+1628995,Kevin,Knox,kevkno,New York,38,40,New York
+1628996,Sagaba,Konate,sagkon,Toronto,21,50,Ohio
+1628997,Caleb,Martin,calmar,Charlotte,43,43,North Carolina
+1628998,Cody,Martin,codmar,Charlotte,41,40,North Carolina
+1628999,Yante,Maten,yanmat,Miami,23,56,Florida
+1629000,Brandon,McCoy,bramcc,New Orleans,36,0,Louisiana
+1629001,De'Anthony,Melton,de'mel,Phoenix,42,0,Arizona
+1629002,Chimezie,Metu,chimet,Sacramento,24,56,California
+1629003,Shake,Milton,shamil,Philadelphia,43,60,Pennsylvania
+1629004,Svi,Mykhailiuk,svimyk,Oklahoma City,16,33,Oklahoma
+1629005,Malik,Newman,malnew,Miami,42,20,Florida
+1629007,Jontay,Porter,jonpor,Memphis,27,0,Tennessee
+1629008,Michael,Porter,micpor,Denver,23,27,Colorado
+1629009,Billy,Preston,bilpre,Cleveland,20,0,Ohio
+1629011,Mitchell,Robinson,mitrob,New York,18,71,New York
+1629012,Collin,Sexton,colsex,Cleveland,43,19,Ohio
+1629013,Landry,Shamet,lansha,Brooklyn,33,33,New York
+1629014,Anfernee,Simons,anfsim,Portland,21,47,Oregon
+1629015,Zhaire,Smith,zhasmi,Philadelphia,42,33,Pennsylvania
+1629016,Omari,Spellman,omaspe,Atlanta,36,29,Georgia
+1629017,Khyri,Thomas,khytho,Detroit,17,60,Michigan
+1629018,Gary,Trent,gartre,Toronto,31,20,Ohio
+1629019,Allonzo,Trier,alltri,New York,38,40,New York
+1629021,Moritz,Wagner,morwag,Los Angeles,31,38,California
+1629022,Lonnie,Walker,lonwal,San Antonio,29,48,Texas
+1629023,P.J.,Washington,p.jwas,Charlotte,19,0,North Carolina
+1629026,Kenrich,Williams,kenwil,New Orleans,44,57,Louisiana
+1629027,Trae,Young,trayou,Atlanta,43,52,Georgia
+1629028,Deandre,Ayton,deaayt,Phoenix,30,75,Arizona
+1629029,Luka,Doncic,lukdon,Dallas,38,0,Texas
+1629033,Theo,Pinson,thepin,Brooklyn,41,25,New York
+1629034,Ray,Spalding,rayspa,Phoenix,19,57,Arizona
+1629035,Carsen,Edwards,caredw,Boston,38,50,Massachusetts
+1629037,Keenan,Evans,keeeva,Detroit,36,0,Michigan
+1629044,Shamorie,Ponds,shapon,Toronto,16,67,Ohio
+1629045,Bonzie,Colson,boncol,Milwaukee,22,50,Wisconsin
+1629048,Goga,Bitadze,gogbit,Indiana,13,17,Pennsylvania
+1629050,Jeffrey,Carroll,jefcar,Los Angeles,29,0,California
+1629052,Oshae,Brissett,oshbri,Indiana,22,43,Pennsylvania
+1629053,Vincent,Edwards,vinedw,Houston,40,100,Texas
+1629056,Terence,Davis,terdav,Sacramento,36,62,California
+1629057,Robert,Williams,robwil,Boston,33,50,Massachusetts
+1629058,Dzanan,Musa,dzamus,Brooklyn,34,25,New York
+1629059,Elie,Okobo,elioko,Phoenix,17,14,Arizona
+1629060,Rui,Hachimura,ruihac,Washington,14,46,District of Columbia
+1629061,Deng,Adel,denade,Cleveland,42,14,Ohio
+1629066,Rodions,Kurucs,rodkur,Brooklyn,22,50,New York
+1629067,Isaac,Bonga,isabon,Washington,32,100,District of Columbia
+1629076,Tyler,Cook,tylcoo,Cleveland,18,0,Ohio
+1629078,Doral,Moore,dormoo,Memphis,38,60,Tennessee
+1629083,Arnoldas,Kulboka,arnkul,Charlotte,29,0,North Carolina
+1629091,Elijah,Bryant,elibry,Milwaukee,17,0,Wisconsin
+1629093,Tyler,Davis,tyldav,Oklahoma City,31,0,Oklahoma
+1629102,Brandon,Sampson,brasam,Chicago,23,0,Illinois
+1629103,Kelan,Martin,kelmar,Indiana,31,0,Pennsylvania
+1629109,Gary,Clark,garcla,Houston,27,75,Texas
+1629111,Jock,Landale,joclan,San Antonio,28,75,Texas
+1629117,Wenyen,Gabriel,wengab,Sacramento,43,67,California
+1629118,Thomas,Welsh,thowel,Denver,25,50,Colorado
+1629121,Jaylen,Adams,jayada,Atlanta,28,50,Georgia
+1629122,J.P.,Macura,j.pmac,Cleveland,24,0,Ohio
+1629126,Deonte,Burton,deobur,Oklahoma City,36,67,Oklahoma
+1629129,Trevon,Bluiett,treblu,New Orleans,37,75,Louisiana
+1629130,Duncan,Robinson,dunrob,Miami,43,50,Florida
+1629132,Braian,Angola-Rodas,braang,Orlando,41,0,Florida
+1629133,Daryl,Macon,darmac,Miami,38,100,Florida
+1629134,Kendrick,Nunn,kennun,Miami,43,54,Florida
+1629136,Elijah,Stewart,eliste,Indiana,26,25,Pennsylvania
+1629137,Joel,Berry,joeber,Los Angeles,22,0,California
+1629139,Yuta,Watanabe,yutwat,Toronto,34,100,Ohio
+1629140,Johnathan,Williams,johwil,Los Angeles,14,75,California
+1629142,Yanyuhang,Ding,yandin,Dallas,32,0,Texas
+1629145,Isaiah,Wilkins,isawil,Charlotte,28,0,North Carolina
+1629146,Zach,Smith,zacsmi,Charlotte,37,0,North Carolina
+1629147,Joe,Chealey,joeche,Charlotte,31,100,North Carolina
+1629148,Johnny,Hamilton,johham,Detroit,25,50,Michigan
+1629149,Codi,Miller-McIntyre,codmil,Dallas,40,0,Texas
+1629150,Emanuel,Terry,emater,Cleveland,35,50,Ohio
+1629151,Ryan,Broekhoff,ryabro,Dallas,28,25,Texas
+1629152,DeVaughn,Akoon-Purcell,devako,Oklahoma City,35,0,Oklahoma
+1629154,Rob,Gray,robgra,Houston,23,0,Texas
+1629155,Zach,Lofton,zaclof,Detroit,16,40,Michigan
+1629156,Markel,Crawford,marcra,Memphis,32,50,Tennessee
+1629159,Marcus,Lee,marlee,Miami,36,57,Florida
+1629164,Brandon,Goodwin,bragoo,Atlanta,24,25,Georgia
+1629165,Nick,King,nickin,Boston,36,50,Massachusetts
+1629166,Jeff,Roberson,jefrob,Boston,20,100,Massachusetts
+1629168,BJ,Johnson,bjjoh,Miami,35,33,Florida
+1629186,Tiwian,Kendley,tiwken,Washington,27,0,District of Columbia
+1629203,Jemerrio,Jones,jemjon,Los Angeles,23,40,California
+1629216,Gabe,Vincent,gabvin,Miami,44,62,Florida
+1629226,Ismaila,Kane,ismkan,Memphis,42,0,Tennessee
+1629232,Kaiser,Gates,kaigat,Boston,42,0,Massachusetts
+1629234,Drew,Eubanks,dreeub,San Antonio,36,80,Texas
+1629244,Cameron,Reynolds,camrey,Milwaukee,28,50,Wisconsin
+1629245,Nuni,Omot,nunomo,Brooklyn,20,100,New York
+1629246,Tyrius,Walker,tyrwal,New York,38,0,New York
+1629270,Todd,Withers,todwit,Detroit,22,0,Michigan
+1629285,Angel,Rodriguez,angrod,Houston,36,50,Texas
+1629305,Marcus,Allen,marall,Los Angeles,15,20,California
+1629309,Trayvon,Palmer,trapal,Detroit,19,0,Michigan
+1629312,Haywood,Highsmith,hayhig,Philadelphia,24,50,Pennsylvania
+1629353,Isaac,Humphries,isahum,Orlando,29,0,Florida
+1629541,Dairis,Bertans,daiber,New Orleans,13,25,Louisiana
+1629594,Bennie,Boatwright,benboa,Memphis,26,0,Tennessee
+1629595,Phil,Booth,phiboo,Washington,24,50,District of Columbia
+1629596,Bryce,Brown,brybro,New York,35,33,New York
+1629597,Zylan,Cheatham,zylche,New Orleans,21,0,Louisiana
+1629598,Chris,Clemons,chrcle,Houston,41,40,Texas
+1629600,Jarron,Cumberland,jarcum,Portland,14,0,Oregon
+1629602,Javin,DeLaurier,javdel,Charlotte,34,100,North Carolina
+1629603,Mamadi,Diakite,mamdia,Oklahoma City,26,20,Oklahoma
+1629604,CJ,Elleby,cjell,Portland,14,20,Oregon
+1629605,Tacko,Fall,tacfal,Boston,41,67,Massachusetts
+1629606,Robert,Franks,robfra,Charlotte,33,67,North Carolina
+1629607,Jared,Harper,jarhar,New Orleans,35,50,Louisiana
+1629608,Dewan,Hernandez,dewher,Toronto,42,67,Ohio
+1629610,DaQuan,Jeffries,daqjef,Houston,28,0,Texas
+1629612,Luke,Maye,lukmay,Milwaukee,15,0,Wisconsin
+1629616,Josh,Perkins,josper,Charlotte,43,33,North Carolina
+1629617,Reggie,Perry,regper,Brooklyn,23,50,New York
+1629619,Myles,Powell,mylpow,Philadelphia,40,0,Pennsylvania
+1629620,Justin,Robinson,jusrob,Washington,42,33,District of Columbia
+1629621,Marial,Shayok,marsha,Philadelphia,41,33,Pennsylvania
+1629622,Max,Strus,maxstr,Miami,29,43,Florida
+1629623,Lindell,Wigginton,linwig,Milwaukee,40,0,Wisconsin
+1629624,Kenny,Wooten,kenwoo,Houston,19,0,Texas
+1629626,Bol,Bol,bolbol,Denver,20,33,Colorado
+1629627,Zion,Williamson,ziowil,New Orleans,33,72,Louisiana
+1629628,RJ,Barrett,rjbar,New York,25,33,New York
+1629629,Cam,Reddish,camred,Atlanta,31,27,Georgia
+1629630,Ja,Morant,jamor,Memphis,21,56,Tennessee
+1629631,De'Andre,Hunter,de'hun,Atlanta,36,53,Georgia
+1629632,Coby,White,cobwhi,Chicago,43,75,Illinois
+1629634,Brandon,Clarke,bracla,Memphis,22,46,Tennessee
+1629635,Sekou,Doumbouya,sekdou,Detroit,39,17,Michigan
+1629636,Darius,Garland,dargar,Cleveland,17,35,Ohio
+1629637,Jaxson,Hayes,jaxhay,New Orleans,29,100,Louisiana
+1629638,Nickeil,Alexander-Walker,nicale,New Orleans,22,30,Louisiana
+1629639,Tyler,Herro,tylher,Miami,36,55,Florida
+1629640,Keldon,Johnson,keljoh,San Antonio,21,17,Texas
+1629641,Romeo,Langford,romlan,Boston,22,33,Massachusetts
+1629642,Nassir,Little,naslit,Portland,25,64,Oregon
+1629643,Chuma,Okeke,chuoke,Orlando,23,57,Florida
+1629644,KZ,Okpala,kzokp,Miami,38,78,Florida
+1629645,Kevin,Porter,kevpor,Houston,40,33,Texas
+1629646,Charles,Bassey,chabas,Philadelphia,36,100,Pennsylvania
+1629647,Darius,Bazley,darbaz,Oklahoma City,35,17,Oklahoma
+1629648,Jordan,Bone,jorbon,Orlando,27,60,Florida
+1629649,Ignas,Brazdeikis,ignbra,Orlando,33,0,Florida
+1629650,Moses,Brown,mosbro,Oklahoma City,16,33,Oklahoma
+1629651,Nic,Claxton,niccla,Brooklyn,16,0,New York
+1629652,Luguentz,Dort,lugdor,Oklahoma City,42,67,Oklahoma
+1629653,Devon,Dotson,devdot,Chicago,35,100,Illinois
+1629655,Daniel,Gafford,dangaf,Washington,25,75,District of Columbia
+1629656,Quentin,Grimes,quegri,New York,23,56,New York
+1629657,Kyle,Guy,kylguy,Sacramento,22,20,California
+1629658,Jaylen,Hoard,jayhoa,Oklahoma City,33,33,Oklahoma
+1629659,Talen,Horton-Tucker,talhor,Los Angeles,44,69,California
+1629660,Ty,Jerome,tyjer,Oklahoma City,14,29,Oklahoma
+1629661,Cameron,Johnson,camjoh,Phoenix,24,57,Arizona
+1629662,Mfiondu,Kabengele,mfikab,Cleveland,41,17,Ohio
+1629663,Louis,King,loukin,Sacramento,42,40,California
+1629664,Dedric,Lawson,dedlaw,San Antonio,23,0,Texas
+1629665,Jalen,Lecque,jallec,Phoenix,16,33,Arizona
+1629666,Charles,Matthews,chamat,Cleveland,18,25,Ohio
+1629667,Jalen,McDaniels,jalmcd,Charlotte,40,38,North Carolina
+1629670,Jordan,Nwora,jornwo,Milwaukee,39,42,Wisconsin
+1629674,Neemias,Queta,neeque,Sacramento,29,0,California
+1629676,Isaiah,Roby,isarob,Oklahoma City,32,37,Oklahoma
+1629677,Luka,Samanic,luksam,San Antonio,24,50,Texas
+1629678,Admiral,Schofield,admsch,Washington,44,62,District of Columbia
+1629679,Simisola,Shittu,simshi,Chicago,40,0,Illinois
+1629680,Matisse,Thybulle,matthy,Philadelphia,15,25,Pennsylvania
+1629681,Killian,Tillie,kiltil,Memphis,34,50,Tennessee
+1629682,Tremont,Waters,trewat,Boston,44,54,Massachusetts
+1629684,Grant,Williams,grawil,Boston,13,57,Massachusetts
+1629685,Dylan,Windler,dylwin,Cleveland,31,33,Ohio
+1629686,Deividas,Sirvydis,deisir,Detroit,37,0,Michigan
+1629689,Aric,Holman,arihol,Dallas,32,0,Texas
+1629690,Adam,Mokoka,adamok,Chicago,36,25,Illinois
+1629712,Didi,Louzada,didlou,New Orleans,37,0,Louisiana
+1629713,Justin,James,jusjam,Sacramento,33,67,California
+1629715,Javon,Bess,javbes,New Orleans,23,0,Louisiana
+1629717,Armoni,Brooks,armbro,Houston,24,50,Texas
+1629718,Charlie,Brown,chabro,Philadelphia,18,29,Pennsylvania
+1629719,Devontae,Cacok,devcac,San Antonio,31,100,Texas
+1629721,JaKeenan,Gant,jakgan,Indiana,30,0,Pennsylvania
+1629723,John,Konchar,johkon,Memphis,31,40,Tennessee
+1629724,Vic,Law,viclaw,Orlando,17,100,Florida
+1629725,Jeremiah,Martin,jermar,Cleveland,28,0,Ohio
+1629726,Garrison,Mathews,garmat,Washington,22,43,District of Columbia
+1629729,Josh,Reaves,josrea,Dallas,20,60,Texas
+1629730,Rayjon,Tucker,raytuc,Philadelphia,18,0,Pennsylvania
+1629731,Dean,Wade,deawad,Cleveland,24,60,Ohio
+1629734,Kyle,Alexander,kylale,Miami,20,0,Florida
+1629735,Chris,Silva,chrsil,Sacramento,35,100,California
+1629738,Vincent,Poirier,vinpoi,Boston,41,33,Massachusetts
+1629739,William,Howard,wilhow,Houston,27,57,Texas
+1629740,Nicolo,Melli,nicmel,Dallas,13,0,Texas
+1629741,Marko,Guduric,margud,Memphis,18,100,Tennessee
+1629743,Donta,Hall,donhal,Orlando,36,100,Florida
+1629745,Tariq,Owens,tarowe,Phoenix,28,0,Arizona
+1629746,Christ,Koumadje,chrkou,Philadelphia,13,100,Pennsylvania
+1629750,Javonte,Green,javgre,Chicago,13,46,Illinois
+1629751,Dakota,Mathias,dakmat,Philadelphia,44,0,Pennsylvania
+1629752,Juwan,Morgan,juwmor,Toronto,37,67,Ohio
+1629753,Isaiah,Pineiro,isapin,Sacramento,26,0,California
+1629755,Hassani,Gravett,hasgra,Orlando,43,40,Florida
+1629756,Daulton,Hommes,dauhom,New Orleans,31,100,Louisiana
+1629759,Ahmed,Hill,ahmhil,Charlotte,25,33,North Carolina
+1629760,Matt,Mooney,matmoo,Cleveland,13,25,Ohio
+1629779,Justin,Simon,jussim,Chicago,38,20,Illinois
+1629783,Shaq,Buchanan,shabuc,Memphis,43,50,Tennessee
+1629788,Tyler,Hall,tylhal,New York,37,0,New York
+1629819,Yudai,Baba,yudbab,Dallas,20,0,Texas
+1629824,Jalen,Adams,jalada,New Orleans,27,100,Louisiana
+1629825,Perrion,Callandret,percal,Chicago,39,100,Illinois
+1629826,Norense,Odiase,norodi,Phoenix,22,0,Arizona
+1629833,Keljin,Blevins,kelble,Portland,27,0,Oregon
+1629873,Jaysean,Paige,jaypai,Detroit,26,0,Michigan
+1629958,Ahmad,Caver,ahmcav,Indiana,21,50,Pennsylvania
+1629962,Devin,Cannady,devcan,Orlando,40,67,Florida
+1630163,LaMelo,Ball,lambal,Charlotte,33,41,North Carolina
+1630165,Killian,Hayes,kilhay,Detroit,41,71,Michigan
+1630166,Deni,Avdija,denavd,Washington,21,17,District of Columbia
+1630167,Obi,Toppin,obitop,New York,20,43,New York
+1630168,Onyeka,Okongwu,onyoko,Atlanta,28,67,Georgia
+1630169,Tyrese,Haliburton,tyrhal,Sacramento,28,42,California
+1630170,Devin,Vassell,devvas,San Antonio,19,27,Texas
+1630171,Isaac,Okoro,isaoko,Cleveland,23,55,Ohio
+1630172,Patrick,Williams,patwil,Chicago,24,46,Illinois
+1630173,Precious,Achiuwa,preach,Toronto,25,67,Ohio
+1630174,Aaron,Nesmith,aarnes,Boston,34,67,Massachusetts
+1630175,Cole,Anthony,colant,Orlando,29,54,Florida
+1630176,Vernon,Carey,vercar,Charlotte,19,67,North Carolina
+1630177,Theo,Maledon,themal,Oklahoma City,35,29,Oklahoma
+1630178,Tyrese,Maxey,tyrmax,Philadelphia,25,56,Pennsylvania
+1630179,Tyrell,Terry,tyrter,Dallas,29,20,Texas
+1630180,Saddiq,Bey,sadbey,Detroit,37,53,Michigan
+1630181,R.J.,Hampton,r.jham,Orlando,39,33,Florida
+1630182,Josh,Green,josgre,Dallas,44,33,Texas
+1630184,Kira,Lewis,kirlew,New Orleans,19,56,Louisiana
+1630186,Jahmi'us,Ramsey,jahram,Sacramento,24,25,California
+1630188,Jalen,Smith,jalsmi,Indiana,30,78,Pennsylvania
+1630189,Tyler,Bey,tylbey,Dallas,30,100,Texas
+1630191,Isaiah,Stewart,isaste,Detroit,13,29,Michigan
+1630192,Zeke,Nnaji,zeknna,Denver,24,29,Colorado
+1630193,Immanuel,Quickley,immqui,New York,16,35,New York
+1630194,Paul,Reed,pauree,Philadelphia,26,50,Pennsylvania
+1630197,Aleksej,Pokusevski,alepok,Oklahoma City,24,19,Oklahoma
+1630198,Isaiah,Joe,isajoe,Philadelphia,20,100,Pennsylvania
+1630199,Cassius,Stanley,cassta,Indiana,26,0,Pennsylvania
+1630200,Tre,Jones,trejon,San Antonio,31,75,Texas
+1630201,Malachi,Flynn,malfly,Toronto,33,55,Ohio
+1630202,Payton,Pritchard,paypri,Boston,32,46,Massachusetts
+1630203,Grant,Riller,graril,Charlotte,33,25,North Carolina
+1630205,Lamar,Stevens,lamste,Cleveland,13,30,Ohio
+1630207,Nate,Hinton,nathin,Indiana,13,0,Pennsylvania
+1630208,Nick,Richards,nicric,Charlotte,18,0,North Carolina
+1630209,Omer,Yurtseven,omeyur,Miami,16,40,Florida
+1630210,Markus,Howard,marhow,Denver,26,0,Colorado
+1630211,Karim,Mane,karman,Orlando,23,0,Florida
+1630213,Yoeli,Childs,yoechi,Washington,13,25,District of Columbia
+1630214,Xavier,Tillman,xavtil,Memphis,40,71,Tennessee
+1630216,Cassius,Winston,caswin,Washington,41,0,District of Columbia
+1630217,Desmond,Bane,desban,Memphis,23,30,Tennessee
+1630218,Robert,Woodard,robwoo,Sacramento,35,100,California
+1630219,Skylar,Mays,skymay,Atlanta,13,0,Georgia
+1630221,Josh,Hall,joshal,Oklahoma City,31,43,Oklahoma
+1630222,Mason,Jones,masjon,Houston,39,0,Texas
+1630223,Jalen,Harris,jalhar,Toronto,33,50,Ohio
+1630224,Jalen,Green,jalgre,Houston,37,36,Texas
+1630225,Isaiah,Todd,isatod,Washington,23,0,District of Columbia
+1630227,Daishen,Nix,dainix,Houston,26,83,Texas
+1630230,Naji,Marshall,najmar,New Orleans,37,50,Louisiana
+1630231,Kenyon,Martin,kenmar,Houston,21,56,Texas
+1630232,Kahlil,Whitney,kahwhi,Charlotte,28,0,North Carolina
+1630233,Nathan,Knight,natkni,Atlanta,15,67,Georgia
+1630234,Ty-Shon,Alexander,ty-ale,Phoenix,18,0,Arizona
+1630237,Anthony,Lamb,antlam,Houston,20,57,Texas
+1630240,Saben,Lee,sablee,Detroit,32,43,Michigan
+1630241,Sam,Merrill,sammer,Milwaukee,23,50,Wisconsin
+1630243,Trevelin,Queen,treque,Houston,38,67,Texas
+1630245,Ayo,Dosunmu,ayodos,Chicago,28,56,Illinois
+1630249,Vit,Krejci,vitkre,Oklahoma City,34,75,Oklahoma
+1630250,Marko,Simonovic,marsim,Chicago,34,0,Illinois
+1630253,Sean,McDermott,seamcd,Memphis,19,75,Tennessee
+1630254,Breein,Tyree,bretyr,Miami,20,0,Florida
+1630256,Jae'Sean,Tate,jaetat,Houston,22,60,Texas
+1630257,Jon,Teske,jontes,Memphis,28,0,Tennessee
+1630258,Caleb,Homesley,calhom,Washington,25,14,District of Columbia
+1630260,Marlon,Taylor,martay,Washington,34,0,District of Columbia
+1630261,Jahlil,Tripp,jahtri,Memphis,41,0,Tennessee
+1630262,Rayshaun,Hammonds,rayham,Indiana,30,0,Pennsylvania
+1630264,Anthony,Gill,antgil,Washington,14,50,District of Columbia
+1630266,Will,Magnay,wilmag,New Orleans,24,0,Louisiana
+1630267,Facundo,Campazzo,faccam,Denver,28,44,Colorado
+1630268,Nate,Darling,natdar,Charlotte,17,0,North Carolina
+1630269,Keandre,Cook,keacoo,Charlotte,31,0,North Carolina
+1630270,Xavier,Sneed,xavsne,Charlotte,27,67,North Carolina
+1630271,Brodric,Thomas,brotho,Cleveland,31,67,Ohio
+1630273,Freddie,Gillespie,fregil,Toronto,43,33,Ohio
+1630286,Trevon,Scott,tresco,Cleveland,34,0,Ohio
+1630296,Braxton,Key,brakey,Philadelphia,19,100,Pennsylvania
+1630306,Rob,Edwards,robedw,Oklahoma City,29,33,Oklahoma
+1630314,Brandon,Williams,brawil,Portland,13,0,Oregon
+1630322,Lindy,Waters,linwat,Oklahoma City,44,55,Oklahoma
+1630466,Gabriel,Deck,gabdec,Oklahoma City,13,71,Oklahoma
+1630525,David,Johnson,davjoh,Toronto,44,0,Ohio
+1630526,Jeremiah,Robinson-Earl,jerrob,Oklahoma City,28,33,Oklahoma
+1630528,Josh,Christopher,joschr,Houston,27,43,Texas
+1630529,Herbert,Jones,herjon,New Orleans,20,73,Louisiana
+1630530,Trey,Murphy,tremur,New Orleans,39,44,Louisiana
+1630531,Jaden,Springer,jadspr,Philadelphia,40,0,Pennsylvania
+1630532,Franz,Wagner,frawag,Orlando,13,33,Florida
+1630533,Ziaire,Williams,ziawil,Memphis,42,57,Tennessee
+1630535,Greg,Brown,grebro,Portland,37,33,Oregon
+1630536,Sharife,Cooper,shacoo,Atlanta,40,50,Georgia
+1630537,Chris,Duarte,chrdua,Indiana,36,44,Pennsylvania
+1630538,Bones,Hyland,bonhyl,Denver,31,57,Colorado
+1630539,Kai,Jones,kaijon,Charlotte,33,100,North Carolina
+1630540,Miles,McBride,milmcb,New York,16,33,New York
+1630543,Isaiah,Jackson,isajac,Indiana,28,50,Pennsylvania
+1630544,Tre,Mann,treman,Oklahoma City,14,0,Oklahoma
+1630547,James,Bouknight,jambou,Charlotte,24,44,North Carolina
+1630549,Day'Ron,Sharpe,daysha,Brooklyn,42,67,New York
+1630550,JT,Thor,jttho,Charlotte,36,33,North Carolina
+1630551,Justin,Champagnie,juscha,Toronto,38,0,Ohio
+1630552,Jalen,Johnson,jaljoh,Atlanta,20,0,Georgia
+1630555,Joel,Ayayi,joeaya,Los Angeles,29,0,California
+1630556,Kessler,Edwards,kesedw,Brooklyn,27,60,New York
+1630557,Corey,Kispert,corkis,Washington,27,14,District of Columbia
+1630558,Davion,Mitchell,davmit,Sacramento,14,71,California
+1630559,Austin,Reaves,ausrea,Los Angeles,28,83,California
+1630560,Cam,Thomas,camtho,Brooklyn,14,67,New York
+1630561,David,Duke,davduk,Brooklyn,29,33,New York
+1630563,Joshua,Primo,jospri,San Antonio,13,88,Texas
+1630565,Aaron,Henry,aarhen,Philadelphia,24,0,Pennsylvania
+1630567,Scottie,Barnes,scobar,Toronto,21,30,Ohio
+1630568,Luka,Garza,lukgar,Detroit,34,0,Michigan
+1630569,DJ,Steward,djste,Sacramento,14,33,California
+1630570,Trendon,Watford,trewat,Portland,13,0,Oregon
+1630572,Sandro,Mamukelashvili,sanmam,Milwaukee,24,44,Wisconsin
+1630573,Sam,Hauser,samhau,Boston,21,60,Massachusetts
+1630575,Scottie,Lewis,scolew,Charlotte,31,0,North Carolina
+1630578,Alperen,Sengun,alpsen,Houston,38,50,Texas
+1630579,Jericho,Sims,jersim,New York,21,75,New York
+1630580,Joe,Wieskamp,joewie,San Antonio,36,100,Texas
+1630581,Josh,Giddey,josgid,Oklahoma City,32,29,Oklahoma
+1630582,Yves,Pons,yvepon,Memphis,33,0,Tennessee
+1630583,Santi,Aldama,sanald,Memphis,27,100,Tennessee
+1630585,Marcus,Garrett,margar,Miami,27,0,Florida
+1630586,Usman,Garuba,usmgar,Houston,27,0,Texas
+1630587,Isaiah,Livers,isaliv,Detroit,16,50,Michigan
+1630591,Jalen,Suggs,jalsug,Orlando,28,50,Florida
+1630595,Cade,Cunningham,cadcun,Detroit,41,38,Michigan
+1630596,Evan,Mobley,evamob,Cleveland,40,67,Ohio
+1630597,DJ,Stewart,djste,Miami,21,0,Florida
+1630598,Aaron,Wiggins,aarwig,Oklahoma City,29,62,Oklahoma
+1630602,Chaundee,Brown,chabro,Los Angeles,26,0,California
+1630603,Aamir,Simms,aamsim,New York,39,0,New York
+1630605,JaQuori,McLaughlin,jaqmcl,Dallas,34,0,Texas
+1630606,Javonte,Smart,javsma,Miami,18,0,Florida
+1630610,DeJon,Jarreau,dejjar,Indiana,27,0,Pennsylvania
+1630612,RJ,Nembhard,rjnem,Cleveland,29,57,Ohio
+1630613,Duane,Washington,duawas,Indiana,21,11,Pennsylvania
+1630622,Jalen,Crutcher,jalcru,Charlotte,34,25,North Carolina
+1630624,Feron,Hunt,ferhun,Dallas,41,75,Texas
+1630625,Dalano,Banton,dalban,Toronto,27,50,Ohio
+1630631,Jose,Alvarado,josalv,New Orleans,42,0,Louisiana
+1630637,Carlik,Jones,carjon,Dallas,24,0,Texas
+1630639,A.J.,Lawson,a.jlaw,Atlanta,37,67,Georgia
+1630640,MJ,Walker,mjwal,Phoenix,28,0,Arizona
+1630642,Mitch,Ballock,mitbal,Cleveland,30,67,Ohio
+1630643,Jay,Huff,jayhuf,Los Angeles,39,0,California
+1630644,Mac,McClung,macmcc,Los Angeles,14,0,California
+1630645,Matt,Coleman,matcol,Sacramento,39,0,California
+1630647,Eugene,Omoruyi,eugomo,Dallas,21,0,Texas
+1630648,Jordan,Schakel,jorsch,Washington,30,0,District of Columbia
+1630651,Romeo,Weems,romwee,Memphis,37,33,Tennessee
+1630678,Terry,Taylor,tertay,Indiana,37,57,Pennsylvania
+1630679,Ethan,Thompson,eththo,Chicago,43,100,Illinois
+1630686,Georgios,Kalaitzakis,geokal,Milwaukee,20,25,Wisconsin
+1630688,Ish,Wainright,ishwai,Toronto,40,0,Ohio
+1630691,Jamorko,Pickett,jampic,Detroit,23,33,Michigan
+1630692,Jordan,Goodwin,jorgoo,Washington,43,0,District of Columbia
+1630693,Jaime,Echenique,jaiech,Washington,13,0,District of Columbia
+1630695,Micah,Potter,micpot,Detroit,22,50,Michigan
+1630696,Dru,Smith,drusmi,Miami,41,33,Florida
+1630698,Kevin,Pangos,kevpan,Cleveland,35,40,Ohio
+1630758,Aleem,Ford,alefor,Orlando,20,0,Florida
+1630787,Cameron,McGriff,cammcg,Charlotte,39,50,North Carolina
+1630792,Malcolm,Hill,malhil,Atlanta,44,0,Georgia
+1630846,Olivier,Sarr,olisar,Oklahoma City,35,33,Oklahoma
+122683568,Vernon,Macklin,vermac,Detroit,25,50,Michigan
+1962936270,Dionte,Christmas,diochr,Philadelphia,44,0,Pennsylvania
+1962936483,Jan,Vesely,janves,Washington,18,43,District of Columbia
+1962936489,Brian,Skinner,briski,Memphis,21,40,Tennessee
+1962936495,Damien,Wilkins,damwil,Detroit,44,25,Michigan
+1962937827,Matt,Matt,matmat,Sacramento,15,0,California
